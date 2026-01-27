@@ -1,5 +1,15 @@
 .navbar-brand {
     margin-left: 20px;
-    font-size: 24px;
+    font-size: 30px;
     font-weight: 700;
+}
+
+.contact-info-address {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.contact-info-phone {
+    margin-right: 20px;
+    margin-left: 20px;
 }
