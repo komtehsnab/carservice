@@ -13,3 +13,40 @@
     margin-right: 20px;
     margin-left: 20px;
 }
+
+.accordion {
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.accordion-body{
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+
+.main {
+    padding: 40px;
+    background:
+    linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+    url("/img/bg-main.jpg");
+    background-image: url("/img/main.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    min-height: 100vh; /* на всю высоту экрана */
+}
+
+.card-offset {
+    border: 40px; /* центр по горизонтали */
+}
+
+.card-img-top {
+    width: 300px;     /* ширина */
+    height: auto;
+}
+
+.table {
+        margin-top: 20px;
+}
