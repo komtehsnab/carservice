@@ -8,12 +8,17 @@ fetch('data/battery.json')
       tbody.insertAdjacentHTML('beforeend', `
         <tr>
           <th scope="row">${i + 1}</th>
+          <td>${b.code}</td>
           <td>${b.ah}</td>
           <td>${b.cca}</td>
           <td>${b.size}</td>
           <td>${b.weight}</td>
+          <td>${b.polarity}</td>
+          <td>${b.terminals}</td>
+          <td>${b.mount}</td>
+          <td>${b.type}</td>
           <td>${b.brand}</td>
-          <td>${b.price}</td>
+          <td>${b.price} руб.</td>
         </tr>
       `);
     });

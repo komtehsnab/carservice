@@ -13,7 +13,6 @@
 <body class="body">
 
 <!-- NAVBAR -->
-
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container-fluid">
         <img src="/img/logo.png" alt="Bootstrap" width="80" height="80">
@@ -78,116 +77,26 @@
     </div>
 </nav>
 
-<main class="main-battery">
+<!-- MAIN -->
+<main class="main-battery" >
 
-    <!-- AGM -->
-    <div class="card w-100 p-3">
-        <div class="row g-0">
-            <div class="col-md-4">
-                <img src="/img/battery/varta/AGM.png" class="img-fluid rounded-start" alt="...">
-            </div>
-            <div class="col-md-8">
-                <div class="card-body">
-                    <h5 class="card-title">Dynamic AGM</h5>
-                    <p class="card-text">
-                    <p>Аккумуляторы AGM предназначены для автомобилей с самыми высокими энергетическими
-                        потребностями.</p>
+    <!-- Batteries cards -->
+    <div id="batteryContainer"></div>
 
-                    <p>Разработанные для поддержки передовых систем Start-Stop и современных бортовых
-                        технологий, они обеспечивают надежное электропитание и длительную работу.</p>
-
-                    <p>Разработан для электромобилей и гибридных автомобилей</p>
-                    <p>Каждому автомобилю, даже электромобилям, требуется низковольтная батарея 12 В для питания важных
-                        функций, таких как система блокировки дверей и другие системы безопасности, например, усилитель
-                        рулевого управления, усилитель тормозов или ABS.</p>
-
-                    <p class="card-text"><small class="text-body-secondary"></small></p>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- EFB -->
-
-    <div class="card w-100 p-3">
-        <div class="row g-0">
-            <div class="col-md-4">
-                <img src="/img/battery/varta/EFB.png" class="img-fluid rounded-start" alt="...">
-            </div>
-            <div class="col-md-8">
-                <div class="card-body">
-                    <h5 class="card-title">Dynamic EFB</h5>
-                    <p class="card-text">
-                        <p>Аккумуляторная батарея EFB — это надежное решение для автомобилей с функцией
-                        Start-Stop и умеренными потребностями в электроэнергии.</p>
-                        <p>Созданная для повседневной эксплуатации,
-                        она обеспечивает мощный запуск, длительный срок службы и плавную работу — идеально подходит для
-                        современных автомобилей, которым требуется больше, чем просто стандартная батарея.</p>
-                    <p>
-                    </p>
-                    <p class="card-text"><small class="text-body-secondary"></small></p>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- SLI -->
-    <div class="card w-100 p-3">
-        <div class="row g-0">
-            <div class="col-md-4">
-                <img src="/img/battery/varta/SLI.png" class="img-fluid rounded-start" alt="...">
-            </div>
-            <div class="col-md-8">
-                <div class="card-body">
-                    <h5 class="card-title">SLI</h5>
-                    <p class="card-text">
-                        Автомобили без системы Start-Stop и с базовыми потребностями в энергии.
-
-                        Ощутите спокойствие с аккумулятором VARTA Dynamic SLI — необслуживаемым аккумулятором,
-                        разработанным для обеспечения надежной работы. Созданный на основе проверенных технологий, он
-                        обеспечивает длительный срок службы и исключительную ценность, что делает его идеальным выбором
-                        для обычных автомобилей.
-
-                        Аккумуляторы VARTA соответствуют всем стандартам производителей оригинального оборудования.
-                        Разработанные в Германии, аккумуляторы VARTA обеспечивают точную работу и длительную надежность.
-                    </p>
-                    <p class="card-text"><small class="text-body-secondary"></small></p>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- AUX -->
-    <div class="card w-100 p-3">
-        <div class="row g-0">
-            <div class="col-md-4">
-                <img src="/img/battery/varta/AUX.png" class="img-fluid rounded-start" alt="...">
-            </div>
-            <div class="col-md-8">
-                <div class="card-body">
-                    <h5 class="card-title">Dynamic AUX</h5>
-                    <p class="card-text">
-                        <p>Вспомогательная батарея для систем с двумя батареями</p>
-                        <p>Вспомогательные батареи VARTA обеспечивают бесперебойную работу электрических компонентов.
-                            Это позволяет увеличить продолжительность цикла «старт-стоп» и поддерживает функции комфорта
-                            при запуске двигателя. Современные автомобили потребляют значительное количество электроэнергии.
-                            Поэтому автомобили с двигателем внутреннего сгорания часто оснащаются двумя батареями:
-                            обычной 12-вольтовой стартерной батареей и вспомогательной батареей.</p>
-
-                    <p class="card-text"><small class="text-body-secondary"></small></p>
-                </div>
-            </div>
-        </div>
-    </div>
-
+    <!-- All goods -->
     <table class="table table-warning table-striped">
         <thead>
         <tr>
             <th scope="col">#</th>
+            <th scope="col">Код</th>
             <th scope="col">Ah/Ампер-час</th>
             <th scope="col">CCA/Пусковой ток</th>
             <th scope="col">Длина/Ширина/Высота</th>
             <th scope="col">Вес</th>
+            <th scope="col">Полярность</th>
+            <th scope="col">Клемы</th>
+            <th scope="col">Крепление</th>
+            <th scope="col">Тип</th>
             <th scope="col">Бренд</th>
             <th scope="col">Стоимость</th>
         </tr>
@@ -200,6 +109,7 @@
 </main>
 
 <script src="js/battery.js"></script>
+<script src="js/battery-description.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
         crossorigin="anonymous"></script>
