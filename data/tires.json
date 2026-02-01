@@ -1,0 +1,24 @@
+{
+  "brand": "Rovelo",
+  "model": "RWT-768",
+  "size": {
+    "width": 175,
+    "profile": 70,
+    "diameter": 13
+  },
+  "vehicleType": "Легковые автомобили",
+  "season": "Зимние",
+  "studded": "-",
+  "loadIndex": "82(до 475 кг)",
+  "speedIndex": "T(до 190 км/ч)",
+  "reinforced": "-",
+  "fuelEfficiency": "D",
+  "wetGrip": "D",
+  "noise": 71,
+  "3PMSF": "Есть",
+  "treadDepth": "",
+  "treadPattern": "Симметричный",
+  "country": "Китай",
+  "price": 95.00,
+  "images": "img/tires/13/Rovelo_RWT_768_175_70R13.jpeg"
+}
