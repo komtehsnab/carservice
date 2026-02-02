@@ -1,0 +1,86 @@
+[
+  {
+    "brand": "WindForce",
+    "model": "Catchfors H/P",
+    "size": {
+      "width": 175,
+      "profile": 70,
+      "diameter": 13
+    },
+    "season": "Зимние",
+    "loadIndex": "82 (до 475 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 95,
+    "images": "img/tires/WindForce/Catchfors_HP_175_70R13.jpg"
+  },
+  {
+    "brand": "Sunwide",
+    "model": "Rolit 6",
+    "size": {
+      "width": 175,
+      "profile": 70,
+      "diameter": 13
+    },
+    "season": "Зимние",
+    "loadIndex": "82 (до 475 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 95,
+    "images": "img/tires/Sunwide/Rolit_6.jpg"
+  },
+  {
+    "brand": "Petlas",
+    "model": "Elegant PT311",
+    "size": {
+      "width": 175,
+      "profile": 70,
+      "diameter": 13
+    },
+    "season": "Зимние",
+    "loadIndex": "82 (до 475 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 95,
+    "images": "img/tires/Petlas/Elegant_PT311.png"
+  },
+  {
+    "brand": "Rovelo",
+    "model": "RWS-677",
+    "size": {
+      "width": 175,
+      "profile": 70,
+      "diameter": 13
+    },
+    "season": "Зимние",
+    "loadIndex": "82 (до 475 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 95,
+    "images": "img/tires/Rovelo/RWS_677.png"
+  },
+  {
+    "brand": "Rovelo",
+    "model": "RWS-768",
+    "size": {
+      "width": 175,
+      "profile": 70,
+      "diameter": 13
+    },
+    "season": "Зимние",
+    "loadIndex": "82 (до 475 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 95,
+    "images": "img/tires/Rovelo/RWS_677.png"
+  },
+  {
+    "brand": "Tracmax",
+    "model": "X-PRIVILO TX2",
+    "size": {
+      "width": 175,
+      "profile": 70,
+      "diameter": 13
+    },
+    "season": "Зимние",
+    "loadIndex": "82 (до 475 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 95,
+    "images": "img/tires/Tracmax/X-PRIVILO_TX2.png"
+  }
+]
