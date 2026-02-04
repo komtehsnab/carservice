@@ -7,11 +7,11 @@
       "profile": 70,
       "diameter": 13
     },
-    "season": "Зимние",
+    "season": "Летние",
     "loadIndex": "82 (до 475 кг)",
     "speedIndex": "T (до 190 км/ч)",
-    "price": 95,
-    "images": "img/tires/WindForce/Catchfors_HP_175_70R13.jpg"
+    "price": 700,
+    "images": "img/tires/passenger/WindForce/CatchforsHP.jpg"
   },
   {
     "brand": "Sunwide",
@@ -25,7 +25,7 @@
     "loadIndex": "82 (до 475 кг)",
     "speedIndex": "T (до 190 км/ч)",
     "price": 95,
-    "images": "img/tires/Sunwide/Rolit_6.jpg"
+    "images": "img/tires/passenger/Sunwide/Rolit6.jpg"
   },
   {
     "brand": "Petlas",
@@ -39,7 +39,7 @@
     "loadIndex": "82 (до 475 кг)",
     "speedIndex": "T (до 190 км/ч)",
     "price": 95,
-    "images": "img/tires/Petlas/Elegant_PT311.png"
+    "images": "img/tires/passenger/Petlas/ElegantPT311.png"
   },
   {
     "brand": "Rovelo",
@@ -53,7 +53,7 @@
     "loadIndex": "82 (до 475 кг)",
     "speedIndex": "T (до 190 км/ч)",
     "price": 95,
-    "images": "img/tires/Rovelo/RWS_677.png"
+    "images": "img/tires/passenger/Rovelo/RWS677.png"
   },
   {
     "brand": "Rovelo",
@@ -67,7 +67,7 @@
     "loadIndex": "82 (до 475 кг)",
     "speedIndex": "T (до 190 км/ч)",
     "price": 95,
-    "images": "img/tires/Rovelo/RWS_677.png"
+    "images": "img/tires/passenger/Rovelo/RWS677.png"
   },
   {
     "brand": "Tracmax",
@@ -81,6 +81,6 @@
     "loadIndex": "82 (до 475 кг)",
     "speedIndex": "T (до 190 км/ч)",
     "price": 95,
-    "images": "img/tires/Tracmax/X-PRIVILO_TX2.png"
+    "images": "img/tires/passenger/Tracmax/XPriviloTX2.png"
   }
 ]

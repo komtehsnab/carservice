@@ -1,57 +1,59 @@
-fetch("data/tires/13.json")
-  .then(r => r.json())
-  .then(tires => {
-    const container = document.getElementById("tires13");
-
-    container.innerHTML = tires.map(tire => `
-      <div class="card m-3" style="width: 18rem;">
-        <img src="${tire.images}" class="card-img-center m-3"
-             alt="${tire.brand} ${tire.model}">
-
-        <div class="card-body">
-          <h5 class="card-title">
-            ${tire.brand} ${tire.model}
-          </h5>
-          <p class="card-text">
-            ${tire.size.width}/${tire.size.profile} R${tire.size.diameter},
-            ${tire.season}
-          </p>
-        </div>
-
-        <ul class="list-group list-group-flush">
-          <li class="list-group-item">Нагрузка: ${tire.loadIndex}</li>
-          <li class="list-group-item">Скорость: ${tire.speedIndex}</li>
-          <li class="list-group-item">Цена: ${tire.price} €</li>
-        </ul>
-      </div>
-    `).join("");
-  });
-
-  fetch("data/tires/14.json")
+  // весь твой fetch-код
+  fetch("data/tires/passenger/13.json")
     .then(r => r.json())
     .then(tires => {
-      const container = document.getElementById("tires14");
+      const container = document.getElementById("tires13");
+      if (!container) return;
 
-      container.innerHTML = tires.map(tire => `
-        <div class="card m-3" style="width: 18rem;">
-          <img src="${tire.images}" class="card-img-center m-3"
-               alt="${tire.brand} ${tire.model}">
+      const row = (label, value) =>
+        value ? `<li class="list-group-item">${label}: ${value}</li>` : "";
 
-          <div class="card-body">
-            <h5 class="card-title">
-              ${tire.brand} ${tire.model}
-            </h5>
-            <p class="card-text">
-              ${tire.size.width}/${tire.size.profile} R${tire.size.diameter},
-              ${tire.season}
-            </p>
+      container.innerHTML = tires.map(tire => {
+        const size = tire.size
+          ? `${tire.size.width}/${tire.size.profile} R${tire.size.diameter}`
+          : null;
+
+        return `
+          <div class="card" style="width: 18rem;">
+            <img
+              src="${tire.images ?? "img/no-image.png"}"
+              class="card-img p-3 tire-img"
+              alt="${tire.brand ?? ""} ${tire.model ?? ""}"
+              style="cursor:pointer"
+              onclick="openImage('${tire.images}')"
+            >
+
+
+            <div class="card-body">
+              <h5 class="card-title">
+                ${(tire.brand ?? "")} ${(tire.model ?? "")}
+              </h5>
+
+              ${size || tire.season ? `
+                <p class="card-text">
+                  ${size ?? ""}
+                  ${size && tire.season ? ", " : ""}
+                  ${tire.season ?? ""}
+                </p>` : ""}
+            </div>
+
+            <ul class="list-group list-group-flush">
+              ${row("Нагрузка", tire.loadIndex)}
+              ${row("Скорость", tire.speedIndex)}
+              ${row("Цена", tire.price && tire.price + " €")}
+            </ul>
           </div>
-
-          <ul class="list-group list-group-flush">
-            <li class="list-group-item">Нагрузка: ${tire.loadIndex}</li>
-            <li class="list-group-item">Скорость: ${tire.speedIndex}</li>
-            <li class="list-group-item">Цена: ${tire.price} €</li>
-          </ul>
-        </div>
-      `).join("");
+        `;
+      }).join("");
     });
+
+function openImage(src) {
+  const modalEl = document.getElementById("imageModal");
+  const img = document.getElementById("modalImage");
+
+  img.src = src;
+
+  const modal = bootstrap.Modal.getOrCreateInstance(modalEl);
+  modal.show();
+}
+
