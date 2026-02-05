@@ -1,0 +1,5 @@
+.tire-img {
+  width: 100%;
+  height: 300px;          /* один размер для всех */
+  object-fit: contain;   /* НЕ обрезает шину */
+}
