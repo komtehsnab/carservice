@@ -89,8 +89,10 @@ function renderTires(jsonPath, containerId) {
     });
 }
 
-renderTires("data/tires/passenger/13.json", "tires13");
+renderTires("data/tires/passenger/13winterSummer.json", "tires13");
 renderTires("data/tires/passenger/14winter.json", "tires14winter");
+renderTires("data/tires/passenger/15winter.json", "tires15winter");
+renderTires("data/tires/passenger/16winter.json", "tires16winter");
 
 
 function openImage(src) {

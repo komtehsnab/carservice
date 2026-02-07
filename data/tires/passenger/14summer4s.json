@@ -1,0 +1,151 @@
+[
+  {
+    "brand": "Rovelo",
+    "model": "ALL WEATHER R4S",
+    "size": {
+      "width": 175,
+      "profile": 65,
+      "diameter": 14
+    },
+    "season": "Всесезонные",
+    "loadIndex": "82 (до 475 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 730,
+    "images": "img/tires/passenger/Windforce/Snowblazer.jpg"
+  },
+
+  {
+    "brand": "Petlas",
+    "model": "Elegant PT311",
+    "size": {
+      "width": 175,
+      "profile": 70,
+      "diameter": 14
+    },
+    "season": "Летние",
+    "loadIndex": "84 (до 500 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 795,
+    "images": "img/tires/passenger/Petlas/ElegantPT311.png"
+  },
+
+  {
+    "brand": "Windforce",
+    "model": "Catchfors A/S",
+    "size": {
+      "width": 185,
+      "profile": 65,
+      "diameter": 14
+    },
+    "season": "Всесезонные",
+    "loadIndex": "86 (до 530 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 780,
+    "images": "img/tires/passenger/Windfors/CatchforsAS.png"
+  },
+
+  {
+    "brand": "Windforce",
+    "model": "Catchfors H/P ",
+    "size": {
+      "width": 185,
+      "profile": 65,
+      "diameter": 14
+    },
+    "season": "Летние",
+    "loadIndex": "86 (до 530 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 770,
+    "images": "img/tires/passenger/Windfors/CatchforsHP.png"
+  },
+
+  {
+    "brand": "Sunwide",
+    "model": "Rolit 6",
+    "size": {
+      "width": 185,
+      "profile": 65,
+      "diameter": 14
+    },
+    "season": "Летние",
+    "loadIndex": "84 (до 500 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 720,
+    "images": "img/tires/passenger/Sunwide/Rolit6.png"
+  },
+
+  {
+    "brand": "Sailun",
+    "model": "Atrezzo Eco",
+    "size": {
+      "width": 185,
+      "profile": 65,
+      "diameter": 14
+    },
+    "season": "Летние",
+    "loadIndex": "86 (до 530 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 890,
+    "images": "img/tires/passenger/Sailun/AtrezzoEco.png"
+  },
+
+  {
+    "brand": "Petlas",
+    "model": "Elegant PT311",
+    "size": {
+      "width": 185,
+      "profile": 65,
+      "diameter": 14
+    },
+    "season": "Летние",
+    "loadIndex": "86 (до 530 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 950,
+    "images": "img/tires/passenger/Sailun/IceBlazerArctic.webp"
+  },
+
+  {
+    "brand": "Tunga",
+    "model": "Zodiak 2",
+    "size": {
+      "width": 185,
+      "profile": 65,
+      "diameter": 14
+    },
+    "season": "Летние",
+    "loadIndex": "90 (до 600 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 850,
+    "images": "img/tires/passenger/Tunga/Zodiak2.png"
+  },
+
+  {
+    "brand": "Petlas",
+    "model": "Elegant PT311",
+    "size": {
+      "width": 185,
+      "profile": 70,
+      "diameter": 14
+    },
+    "season": "Летние",
+    "loadIndex": "88 (до 560 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 790,
+    "images": "img/tires/passenger/Petlas/ElegantPT311.webp"
+  },
+
+  {
+    "brand": "Tracmax",
+    "model": "X-privilo TX2",
+    "size": {
+      "width": 185,
+      "profile": 70,
+      "diameter": 14
+    },
+    "season": "Летние",
+    "loadIndex": "88 (до 560 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 760,
+    "images": "img/tires/passenger/Tracmax/TX2.jpg"
+  }
+]

@@ -90,289 +90,107 @@
   },
 
   {
-    "brand": "Tracmax",
-    "model": "X-Privilo TX2",
-    "size": {
-      "width": 175,
-      "profile": 70,
-      "diameter": 13
-    },
-    "season": "Зимние",
-    "loadIndex": "82 (до 475 кг)",
-    "speedIndex": "T (до 190 км/ч)",
-    "price": 95,
-    "images": "img/tires/WindForce/Catchfors_HP_175_70R13.jpg"
-  },
-  {
-    "brand": "Petlas",
-    "model": "Elegant PT311",
-    "size": {
-      "width": 175,
-      "profile": 70,
-      "diameter": 13
-    },
-    "season": "Зимние",
-    "loadIndex": "82 (до 475 кг)",
-    "speedIndex": "T (до 190 км/ч)",
-    "price": 95,
-    "images": "img/tires/WindForce/Catchfors_HP_175_70R13.jpg"
-  },
-  {
-    "brand": "Petlas",
-    "model": "Snowmaster 2",
-    "size": {
-      "width": 175,
-      "profile": 70,
-      "diameter": 13
-    },
-    "season": "Зимние",
-    "loadIndex": "82 (до 475 кг)",
-    "speedIndex": "T (до 190 км/ч)",
-    "price": 95,
-    "images": "img/tires/WindForce/Catchfors_HP_175_70R13.jpg"
-  },
-  {
-    "brand": "Petlas",
-    "model": "Snowmaster 2",
-    "size": {
-      "width": 175,
-      "profile": 70,
-      "diameter": 13
-    },
-    "season": "Зимние",
-    "loadIndex": "82 (до 475 кг)",
-    "speedIndex": "T (до 190 км/ч)",
-    "price": 95,
-    "images": "img/tires/WindForce/Catchfors_HP_175_70R13.jpg"
-  },
-  {
     "brand": "Sailun",
     "model": "Ice Blazer Arctic",
     "size": {
-      "width": 175,
-      "profile": 70,
-      "diameter": 13
+      "width": 185,
+      "profile": 65,
+      "diameter": 14
     },
     "season": "Зимние",
-    "loadIndex": "82 (до 475 кг)",
+    "loadIndex": "86 (до 530 кг)",
     "speedIndex": "T (до 190 км/ч)",
-    "price": 95,
-    "images": "img/tires/WindForce/Catchfors_HP_175_70R13.jpg"
+    "price": 950,
+    "images": "img/tires/passenger/Sailun/IceBlazerArctic.webp"
   },
-  {
-    "brand": "Windforce",
-    "model": "Catchfors A/S",
-    "size": {
-      "width": 175,
-      "profile": 70,
-      "diameter": 13
-    },
-    "season": "Зимние",
-    "loadIndex": "82 (до 475 кг)",
-    "speedIndex": "T (до 190 км/ч)",
-    "price": 95,
-    "images": "img/tires/WindForce/Catchfors_HP_175_70R13.jpg"
-  },
-  {
-    "brand": "Windforce",
-    "model": "Catchfors H/P",
-    "size": {
-      "width": 175,
-      "profile": 70,
-      "diameter": 13
-    },
-    "season": "Зимние",
-    "loadIndex": "82 (до 475 кг)",
-    "speedIndex": "T (до 190 км/ч)",
-    "price": 95,
-    "images": "img/tires/WindForce/Catchfors_HP_175_70R13.jpg"
-  },
-  {
-    "brand": "Sunwide",
-    "model": "Rolit 6",
-    "size": {
-      "width": 175,
-      "profile": 70,
-      "diameter": 13
-    },
-    "season": "Зимние",
-    "loadIndex": "82 (до 475 кг)",
-    "speedIndex": "T (до 190 км/ч)",
-    "price": 95,
-    "images": "img/tires/WindForce/Catchfors_HP_175_70R13.jpg"
-  },
+
   {
     "brand": "Petlas",
     "model": "Snowmaster 2",
     "size": {
-      "width": 175,
-      "profile": 70,
-      "diameter": 13
+      "width": 185,
+      "profile": 65,
+      "diameter": 14
     },
     "season": "Зимние",
-    "loadIndex": "82 (до 475 кг)",
+    "loadIndex": "86 (до 530 кг)",
     "speedIndex": "T (до 190 км/ч)",
-    "price": 95,
-    "images": "img/tires/WindForce/Catchfors_HP_175_70R13.jpg"
+    "price": 850,
+    "images": "img/tires/passenger/Petlas/Snowmaster2.png"
   },
+
   {
     "brand": "Windforce",
     "model": "Snowblazer",
     "size": {
-      "width": 175,
-      "profile": 70,
-      "diameter": 13
+      "width": 185,
+      "profile": 65,
+      "diameter": 14
     },
     "season": "Зимние",
-    "loadIndex": "82 (до 475 кг)",
+    "loadIndex": "86 (до 530 кг)",
     "speedIndex": "T (до 190 км/ч)",
-    "price": 95,
-    "images": "img/tires/WindForce/Catchfors_HP_175_70R13.jpg"
+    "price": 760,
+    "images": "img/tires/passenger/Windforce/Snowblazer.jpg"
   },
-  {
-    "brand": "Sailun",
-    "model": "Atrezzo Eco",
-    "size": {
-      "width": 175,
-      "profile": 70,
-      "diameter": 13
-    },
-    "season": "Зимние",
-    "loadIndex": "82 (до 475 кг)",
-    "speedIndex": "T (до 190 км/ч)",
-    "price": 95,
-    "images": "img/tires/WindForce/Catchfors_HP_175_70R13.jpg"
-  },
-  {
-    "brand": "Petlas",
-    "model": "Elegant PT311",
-    "size": {
-      "width": 175,
-      "profile": 70,
-      "diameter": 13
-    },
-    "season": "Зимние",
-    "loadIndex": "82 (до 475 кг)",
-    "speedIndex": "T (до 190 км/ч)",
-    "price": 95,
-    "images": "img/tires/WindForce/Catchfors_HP_175_70R13.jpg"
-  },
+
   {
     "brand": "Rovelo",
     "model": "RWS-677",
     "size": {
-      "width": 175,
-      "profile": 70,
-      "diameter": 13
+      "width": 185,
+      "profile": 65,
+      "diameter": 14
     },
     "season": "Зимние",
-    "loadIndex": "82 (до 475 кг)",
+    "loadIndex": "86 (до 530 кг)",
     "speedIndex": "T (до 190 км/ч)",
-    "price": 95,
-    "images": "img/tires/WindForce/Catchfors_HP_175_70R13.jpg"
+    "price": 860,
+    "images": "img/tires/passenger/Rovelo/RWS677.png"
   },
+
   {
     "brand": "Rovelo",
     "model": "RWT-768",
     "size": {
-      "width": 175,
-      "profile": 70,
-      "diameter": 13
+      "width": 185,
+      "profile": 65,
+      "diameter": 14
     },
     "season": "Зимние",
-    "loadIndex": "82 (до 475 кг)",
+    "loadIndex": "86 (до 530 кг)",
     "speedIndex": "T (до 190 км/ч)",
-    "price": 95,
-    "images": "img/tires/WindForce/Catchfors_HP_175_70R13.jpg"
+    "price": 800,
+    "images": "img/tires/passenger/Rovelo/RWT768.png"
   },
-  {
-    "brand": "Tunga",
-    "model": "Zodiac 2",
-    "size": {
-      "width": 175,
-      "profile": 70,
-      "diameter": 13
-    },
-    "season": "Зимние",
-    "loadIndex": "82 (до 475 кг)",
-    "speedIndex": "T (до 190 км/ч)",
-    "price": 95,
-    "images": "img/tires/WindForce/Catchfors_HP_175_70R13.jpg"
-  },
+
   {
     "brand": "Windforce",
     "model": "Snowblazer",
     "size": {
-      "width": 175,
+      "width": 185,
       "profile": 70,
-      "diameter": 13
+      "diameter": 14
     },
     "season": "Зимние",
-    "loadIndex": "82 (до 475 кг)",
+    "loadIndex": "92 (до 630 кг)",
     "speedIndex": "T (до 190 км/ч)",
-    "price": 95,
-    "images": "img/tires/WindForce/Catchfors_HP_175_70R13.jpg"
+    "price": 760,
+    "images": "img/tires/passenger/Windforce/Snowblazer.jpg"
   },
-  {
-    "brand": "Petlas",
-    "model": "Elegant PT311",
-    "size": {
-      "width": 175,
-      "profile": 70,
-      "diameter": 13
-    },
-    "season": "Зимние",
-    "loadIndex": "82 (до 475 кг)",
-    "speedIndex": "T (до 190 км/ч)",
-    "price": 95,
-    "images": "img/tires/WindForce/Catchfors_HP_175_70R13.jpg"
-  },
+
   {
     "brand": "Petlas",
     "model": "Snowmaster 2",
     "size": {
-      "width": 175,
+      "width": 185,
       "profile": 70,
-      "diameter": 13
+      "diameter": 14
     },
     "season": "Зимние",
-    "loadIndex": "82 (до 475 кг)",
+    "loadIndex": "88 (до 560 кг)",
     "speedIndex": "T (до 190 км/ч)",
-    "price": 95,
-    "images": "img/tires/WindForce/Catchfors_HP_175_70R13.jpg"
-  },
-  {
-    "brand": "Tracmax",
-    "model": "X-Privilo TX2",
-    "size": {
-      "width": 175,
-      "profile": 70,
-      "diameter": 13
-    },
-    "season": "Зимние",
-    "loadIndex": "82 (до 475 кг)",
-    "speedIndex": "T (до 190 км/ч)",
-    "price": 95,
-    "images": "img/tires/WindForce/Catchfors_HP_175_70R13.jpg"
-  },
-  {
-    "brand": "Sailun",
-    "model": "Endure WSL1",
-    "size": {"width": 175,"profile": 70,"diameter": 13},
-    "season": "Зимние",
-    "loadIndex": "82 (до 475 кг)",
-    "speedIndex": "T (до 190 км/ч)",
-    "price": 95,
-    "images": "img/tires/WindForce/Catchfors_HP_175_70R13.jpg"
-  },
-  {
-    "brand": "Tracmax",
-    "model": "X-Privilo S450",
-    "size": {"width": 175,"profile": 70,"diameter": 13},
-    "season": "Зимние",
-    "loadIndex": "82 (до 475 кг)",
-    "speedIndex": "T (до 190 км/ч)",
-    "price": 95,
-    "images": "img/tires/WindForce/Catchfors_HP_175_70R13.jpg"
+    "price": 890,
+    "images": "img/tires/passenger/Petlas/Snowmaster2.png"
   }
 ]

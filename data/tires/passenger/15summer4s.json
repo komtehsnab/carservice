@@ -1,0 +1,123 @@
+[
+  {
+    "brand": "Windforce",
+    "model": "Catchfors A/SII",
+    "size": {
+      "width": 185,
+      "profile": 65,
+      "diameter": 15
+    },
+    "season": "Всесезонные",
+    "loadIndex": "92 (до 630 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 890,
+    "images": "img/tires/passenger/Windforce/CatchforsASII.jpg"
+  },
+
+  {
+    "brand": "Sailun",
+    "model": "Atrezzo Elite",
+    "size": {
+      "width": 195,
+      "profile": 60,
+      "diameter": 15
+    },
+    "season": "Летние",
+    "loadIndex": "88 (до 560 кг)",
+    "speedIndex": "V (до 240 км/ч)",
+    "price": 950,
+    "images": "img/tires/passenger/Sailun/AtrezzoElite.jpg"
+  },
+
+  {
+    "brand": "Windforce",
+    "model": "Catchfors A/SII",
+    "size": {
+      "width": 195,
+      "profile": 65,
+      "diameter": 15
+    },
+    "season": "Всесезонные",
+    "loadIndex": "91 (до 615 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 970,
+    "images": "img/tires/passenger/Windforce/CatchforsASII.jpg"
+  },
+
+  {
+    "brand": "Windforce",
+    "model": "Catchfors H/P",
+    "size": {
+      "width": 195,
+      "profile": 65,
+      "diameter": 15
+    },
+    "season": "Летние",
+    "loadIndex": "91 (до 615 кг)",
+    "speedIndex": "V (до 240 км/ч)",
+    "price": 850,
+    "images": "img/tires/passenger/Windforce/CatchforsHP.jpg"
+  },
+
+  {
+    "brand": "Hankook",
+    "model": "Ventus Prime3 K125",
+    "size": {
+      "width": 195,
+      "profile": 65,
+      "diameter": 15
+    },
+    "season": "Летние",
+    "loadIndex": "91 (до 615 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 1150,
+    "images": "img/tires/passenger/Hankook/VentusPrime3K125.jpg"
+  },
+
+  {
+    "brand": "Laufenn",
+    "model": "G-Fit 4S LH71",
+    "size": {
+      "width": 195,
+      "profile": 65,
+      "diameter": 15
+    },
+    "season": "Всесезонные",
+    "loadIndex": "91 (до 615 кг)",
+    "speedIndex": "V (до 240 км/ч)",
+    "price": 1130,
+    "images": "img/tires/passenger/Laufenn/GFit4SLH71.jpg"
+  },
+
+  {
+    "brand": "Petlas",
+    "model": "Imperium PT515",
+    "size": {
+      "width": 195,
+      "profile": 65,
+      "diameter": 15
+    },
+    "season": "Всесезонные",
+    "loadIndex": "91 (до 615 кг)",
+    "speedIndex": "V (до 240 км/ч)",
+    "price": 980,
+    "images": "img/tires/passenger/Petlas/ImperiumPT515.jpg"
+  },
+
+  {
+    "brand": "Sailun",
+    "model": "Atrezzo 4Seasons",
+    "size": {
+      "width": 195,
+      "profile": 65,
+      "diameter": 15
+    },
+    "season": "Летние",
+    "loadIndex": "91 (до 615 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 950,
+    "images": "img/tires/passenger/Sailun/AtrezzoElite.jpg"
+  }
+
+
+]
