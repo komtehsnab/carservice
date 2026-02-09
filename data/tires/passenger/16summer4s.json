@@ -1,197 +1,136 @@
 [
   {
-    "brand": "Petlas",
-    "model": "Snowmaster 2",
+    "brand": "Windfors",
+    "model": "Catchforce H/P",
     "size": {
       "width": 205,
       "profile": 55,
       "diameter": 16
     },
-    "season": "Зимние",
+    "season": "Летние",
     "loadIndex": "91 (до 615 кг)",
-    "speedIndex": "H (до 210 км/ч)",
-    "price": 1090,
-    "images": "img/tires/passenger/Petlas/Snowmaster2.png"
+    "speedIndex": "V (до 240 км/ч)",
+    "price": 890,
+    "images": "img/tires/passenger/Petlas/CatchforceHP.png"
   },
 
   {
-    "brand": "Windforce",
-    "model": "Snowblazer",
+    "brand": "Sunwide",
+    "model": "Rolit 6",
     "size": {
       "width": 205,
       "profile": 55,
       "diameter": 16
     },
-    "season": "Зимние",
+    "season": "Летние",
     "loadIndex": "94 (до 670 кг)",
-    "speedIndex": "H (до 210 км/ч)",
-    "price": 990,
-    "images": "img/tires/passenger/Windforce/Snowblazer.jpg"
+    "speedIndex": "V (до 240 км/ч)",
+    "price": 950,
+    "images": "img/tires/passenger/Sunwide/Rolit6.jpg"
   },
 
   {
-    "brand": "Sailun",
-    "model": "Ice Blazer Alpine 2",
+    "brand": "Tracmax",
+    "model": "X-privilo TX3",
     "size": {
       "width": 205,
       "profile": 55,
       "diameter": 16
     },
-    "season": "Зимние",
-    "loadIndex": "91 (до 615 кг)",
-    "speedIndex": "H (до 210 км/ч)",
+    "season": "Летние",
+    "loadIndex": "94 (до 670 кг)",
+    "speedIndex": "W (до 270 км/ч)",
     "price": 1070,
-    "images": "img/tires/passenger/Sailun/IceBlazerAlpine2.jpg"
+    "images": "img/tires/passenger/Tracmax/XPriviloTX3.jpg"
   },
-
-  {
-    "brand": "Windforce",
-    "model": "Snowblazer",
-    "size": {
-      "width": 205,
-      "profile": 60,
-      "diameter": 16
-    },
-    "season": "Зимние",
-    "loadIndex": "92 (до 630 кг)",
-    "speedIndex": "H (до 210 км/ч)",
-    "price": 990,
-    "images": "img/tires/passenger/Windforce/Snowblazer.jpg"
-  },
-
-  {
-    "brand": "Petlas",
-    "model": "Snowmaster 2",
-    "size": {
-      "width": 205,
-      "profile": 60,
-      "diameter": 16
-    },
-    "season": "Зимние",
-    "loadIndex": "96 (до 710 кг)",
-    "speedIndex": "H (до 210 км/ч)",
-    "price": 1230,
-    "images": "img/tires/passenger/Petlas/Snowmaster2.png"
-  },
-
-  {
-    "brand": "Rovelo",
-    "model": "RWS-677",
-    "size": {
-      "width": 205,
-      "profile": 60,
-      "diameter": 16
-    },
-    "season": "Зимние",
-    "loadIndex": "92 (до 630 кг)",
-    "speedIndex": "T (до 190 км/ч)",
-    "price": 1180,
-    "images": "img/tires/passenger/Rovelo/RWS677.png"
-  },
-
-  {
-    "brand": "Petlas",
-    "model": "Snowmaster 2 Sport",
-    "size": {
-      "width": 215,
-      "profile": 60,
-      "diameter": 16
-    },
-    "season": "Зимние",
-    "loadIndex": "99 (до 775 кг)",
-    "speedIndex": "H (до 210 км/ч)",
-    "price": 1290,
-    "images": "img/tires/passenger/Petlas/Snowmaster2Sport.png"
-  },
-
-  {
-    "brand": "Hankook",
-    "model": "Winter ICept Evo2 W320",
-    "size": {
-      "width": 215,
-      "profile": 60,
-      "diameter": 16
-    },
-    "season": "Зимние",
-    "loadIndex": "99 (до 775 кг)",
-    "speedIndex": "H (до 210 км/ч)",
-    "price": 1780,
-    "images": "img/tires/passenger/Hankook/WinterICeptEvo2W320.jpg"
-  },
-
-  {
-  "brand": "Rovelo",
-  "model": "RWS-677",
-  "size": {
-    "width": 215,
-    "profile": 60,
-    "diameter": 16
-  },
-  "season": "Зимние",
-  "loadIndex": "95 (до 690 кг)",
-  "speedIndex": "T (до 190 км/ч)",
-  "price": 1230,
-  "images": "img/tires/passenger/Rovelo/RWS677.png"
-},
-
-  {
-    "brand": "Sunwide",
-    "model": "Snowide",
-    "size": {
-      "width": 215,
-      "profile": 60,
-      "diameter": 16
-    },
-    "season": "Зимние",
-    "loadIndex": "95 (до 690 кг)",
-    "speedIndex": "H (до 210 км/ч)",
-    "price": 1190,
-    "images": "img/tires/passenger/Sailun/IceBlazerArctic.webp"
-  },
-
-  {
-    "brand": "Windforce",
-    "model": "Snowblazer",
-    "size": {
-      "width": 215,
-      "profile": 65,
-      "diameter": 16
-    },
-    "season": "Зимние",
-    "loadIndex": "102 (до 850 кг)",
-    "speedIndex": "H (до 210 км/ч)",
-    "price": 1100,
-    "images": "img/tires/passenger/Windforce/Snowblazer.jpg"
-  },
-
-  {
-    "brand": "Sunwide",
-    "model": "S-Forche II",
-    "size": {
-      "width": 215,
-      "profile": 65,
-      "diameter": 16
-    },
-    "season": "Зимние",
-    "loadIndex": "98 (до 750 кг)",
-    "speedIndex": "H (до 210 км/ч)",
-    "price": 1250,
-    "images": "img/tires/passenger/Sailun/IceBlazerArctic.webp"
-  }
-,
 
   {
     "brand": "Sailun",
-    "model": "Ice Blazer Arctic SUV",
+    "model": "Atrezzo ZSR 2",
     "size": {
-      "width": 215,
+      "width": 205,
+      "profile": 55,
+      "diameter": 16
+    },
+    "season": "Летние",
+    "loadIndex": "91 (до 615 кг)",
+    "speedIndex": "Y (до 300 км/ч)",
+    "price": 1070,
+    "images": "img/tires/passenger/Sailun/AtrezzoZSR2.jpg"
+  },
+
+  {
+    "brand": "Tunga",
+    "model": "Zodiak 2",
+    "size": {
+      "width": 205,
+      "profile": 55,
+      "diameter": 16
+    },
+    "season": "Летние",
+    "loadIndex": "94 (до 670 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 1070,
+    "images": "img/tires/passenger/Tunga/Zodiak2.jpg"
+  },
+
+  {
+    "brand": "Windfors",
+    "model": "Catchforce H/P",
+    "size": {
+      "width": 205,
+      "profile": 60,
+      "diameter": 16
+    },
+    "season": "Летние",
+    "loadIndex": "92 (до 630 кг)",
+    "speedIndex": "V (до 240 км/ч)",
+    "price": 990,
+    "images": "img/tires/passenger/Petlas/CatchforceHP.png"
+  },
+
+  {
+    "brand": "Petlas",
+    "model": "Progreen PT525",
+    "size": {
+      "width": 205,
+      "profile": 60,
+      "diameter": 16
+    },
+    "season": "Летние",
+    "loadIndex": "92 (до 630 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 1170,
+    "images": "img/tires/passenger/Petlas/ProgreenPT525.jpg"
+  },
+
+  {
+    "brand": "Laufenn",
+    "model": "S-Fit EQ LK01",
+    "size": {
+      "width": 205,
+      "profile": 60,
+      "diameter": 16
+    },
+    "season": "Летние",
+    "loadIndex": "92 (до 630 кг)",
+    "speedIndex": "V (до 240 км/ч)",
+    "price": 1040,
+    "images": "img/tires/passenger/Laufenn/LK01.webp"
+  },
+
+  {
+    "brand": "Sailun",
+    "model": "Atrezzo Elite",
+    "size": {
+      "width": 205,
       "profile": 65,
       "diameter": 16
     },
-    "season": "Зимние",
-    "loadIndex": "102 (до 850 кг)",
-    "speedIndex": "H (до 210 км/ч)",
-    "price": 1490,
-    "images": "img/tires/passenger/Sailun/IceBlazerAlpine2.jpg"
+    "season": "Летние",
+    "loadIndex": "95 (до 690 кг)",
+    "speedIndex": "V (до 240 км/ч)",
+    "price": 1040,
+    "images": "img/tires/passenger/Sailun/AtrezzoElite.jpg"
   }
 ]

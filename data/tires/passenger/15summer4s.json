@@ -97,7 +97,7 @@
       "profile": 65,
       "diameter": 15
     },
-    "season": "Всесезонные",
+    "season": "Летние",
     "loadIndex": "91 (до 615 кг)",
     "speedIndex": "V (до 240 км/ч)",
     "price": 980,
@@ -115,9 +115,22 @@
     "season": "Летние",
     "loadIndex": "91 (до 615 кг)",
     "speedIndex": "T (до 190 км/ч)",
-    "price": 950,
+    "price": 1030,
+    "images": "img/tires/passenger/Sailun/Atrezzo4Seasons.jpg"
+  },
+
+  {
+    "brand": "Sailun",
+    "model": "Atrezzo Elite",
+    "size": {
+      "width": 195,
+      "profile": 65,
+      "diameter": 15
+    },
+    "season": "Летние",
+    "loadIndex": "95 (до 690 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 940,
     "images": "img/tires/passenger/Sailun/AtrezzoElite.jpg"
   }
-
-
 ]
