@@ -1,0 +1,197 @@
+[
+  {
+    "brand": "Sunwide ",
+    "model": "Travomate",
+    "size": {
+      "width": 195,
+      "profile": 80,
+      "diameter": 16
+    },
+    "season": "Летние",
+    "loadIndex": "106 (до 950 кг)",
+    "speedIndex": "Q (до 160 км/ч)",
+    "price": 1140,
+    "images": "img/tires/truck/Sunwide/Travomate.jpg"
+  },
+
+  {
+    "brand": "Sailun",
+    "model": "Commercio Ice",
+    "size": {
+      "width": 195,
+      "profile": 70,
+      "diameter": 15
+    },
+    "season": "Зимние",
+    "loadIndex": "104 (до 900 кг)",
+    "speedIndex": "R (до 170 км/ч)",
+    "price": 1290,
+    "images": "img/tires/truck/Sailun/CommercioICE.webp"
+  },
+
+  {
+    "brand": "Comforser",
+    "model": "CF360",
+    "size": {
+      "width": 195,
+      "profile": 75,
+      "diameter": 16
+    },
+    "season": "Зимние",
+    "loadIndex": "91 (до 615 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 1070,
+    "images": "img/tires/passenger/Sailun/IceBlazerAlpine2.jpg"
+  },
+
+  {
+    "brand": "Windforce",
+    "model": "Snowblazer",
+    "size": {
+      "width": 205,
+      "profile": 60,
+      "diameter": 16
+    },
+    "season": "Зимние",
+    "loadIndex": "92 (до 630 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 990,
+    "images": "img/tires/passenger/Windforce/Snowblazer.jpg"
+  },
+
+  {
+    "brand": "Petlas",
+    "model": "Snowmaster 2",
+    "size": {
+      "width": 205,
+      "profile": 60,
+      "diameter": 16
+    },
+    "season": "Зимние",
+    "loadIndex": "96 (до 710 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 1230,
+    "images": "img/tires/passenger/Petlas/Snowmaster2.png"
+  },
+
+  {
+    "brand": "Rovelo",
+    "model": "RWS-677",
+    "size": {
+      "width": 205,
+      "profile": 60,
+      "diameter": 16
+    },
+    "season": "Зимние",
+    "loadIndex": "92 (до 630 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 1180,
+    "images": "img/tires/passenger/Rovelo/RWS677.png"
+  },
+
+  {
+    "brand": "Petlas",
+    "model": "Snowmaster 2 Sport",
+    "size": {
+      "width": 215,
+      "profile": 60,
+      "diameter": 16
+    },
+    "season": "Зимние",
+    "loadIndex": "99 (до 775 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 1290,
+    "images": "img/tires/passenger/Petlas/Snowmaster2Sport.png"
+  },
+
+  {
+    "brand": "Hankook",
+    "model": "Winter ICept Evo2 W320",
+    "size": {
+      "width": 215,
+      "profile": 60,
+      "diameter": 16
+    },
+    "season": "Зимние",
+    "loadIndex": "99 (до 775 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 1780,
+    "images": "img/tires/passenger/Hankook/WinterICeptEvo2W320.jpg"
+  },
+
+  {
+    "brand": "Rovelo",
+    "model": "RWS-677",
+    "size": {
+      "width": 215,
+      "profile": 60,
+      "diameter": 16
+    },
+    "season": "Зимние",
+    "loadIndex": "95 (до 690 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 1230,
+    "images": "img/tires/passenger/Rovelo/RWS677.png"
+  },
+
+  {
+    "brand": "Sunwide",
+    "model": "Snowide",
+    "size": {
+      "width": 215,
+      "profile": 60,
+      "diameter": 16
+    },
+    "season": "Зимние",
+    "loadIndex": "95 (до 690 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 1190,
+    "images": "img/tires/passenger/Sailun/IceBlazerArctic.webp"
+  },
+
+  {
+    "brand": "Windforce",
+    "model": "Snowblazer",
+    "size": {
+      "width": 215,
+      "profile": 65,
+      "diameter": 16
+    },
+    "season": "Зимние",
+    "loadIndex": "102 (до 850 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 1100,
+    "images": "img/tires/passenger/Windforce/Snowblazer.jpg"
+  },
+
+  {
+    "brand": "Sunwide",
+    "model": "S-Forche II",
+    "size": {
+      "width": 215,
+      "profile": 65,
+      "diameter": 16
+    },
+    "season": "Зимние",
+    "loadIndex": "98 (до 750 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 1250,
+    "images": "img/tires/passenger/Sailun/IceBlazerArctic.webp"
+  }
+,
+
+  {
+    "brand": "Sailun",
+    "model": "Ice Blazer Arctic SUV",
+    "size": {
+      "width": 215,
+      "profile": 65,
+      "diameter": 16
+    },
+    "season": "Зимние",
+    "loadIndex": "102 (до 850 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 1490,
+    "images": "img/tires/passenger/Sailun/IceBlazerAlpine2.jpg"
+  }
+]

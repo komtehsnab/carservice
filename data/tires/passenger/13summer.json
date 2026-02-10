@@ -45,21 +45,6 @@
   },
 
   {
-    "brand": "Rovelo",
-    "model": "RWT-768",
-    "size": {
-      "width": 175,
-      "profile": 70,
-      "diameter": 13
-    },
-    "season": "Зимние",
-    "loadIndex": "82 (до 475 кг)",
-    "speedIndex": "T (до 190 км/ч)",
-    "price": 740,
-    "images": "img/tires/passenger/Rovelo/RWT768.png"
-  },
-
-  {
     "brand": "Tracmax",
     "model": "X-PRIVILO TX2",
     "size": {

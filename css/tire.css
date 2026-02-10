@@ -4,14 +4,18 @@
   object-fit: contain;   /* НЕ обрезает шину */
 }
 
-#winterTires {
-  background: linear-gradient(
-    135deg,
-    #0f172a,
-    #1e3a8a,
-    #38bdf8
-  );
+.tiresWinterBg{
+  background-image: url('/img/tires/bg/winter.png')
+}
 
-  padding: 40px 20px;
-  border-radius: 16px;
+.tiresSummerBg{
+  background-image: url('/img/tires/bg/summer2.png')
+}
+
+.tires4sBg{
+  background-image: url('/img/tires/bg/4s_1.png')
+}
+
+.tiresTruckBg{
+  background-image: url('/img/tires/bg/truck.png')
 }

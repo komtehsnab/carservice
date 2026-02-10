@@ -1,18 +1,4 @@
 [
-  {
-    "brand": "Rovelo",
-    "model": "ALL WEATHER R4S",
-    "size": {
-      "width": 175,
-      "profile": 65,
-      "diameter": 14
-    },
-    "season": "Всесезонные",
-    "loadIndex": "82 (до 475 кг)",
-    "speedIndex": "T (до 190 км/ч)",
-    "price": 730,
-    "images": "img/tires/passenger/Windforce/Snowblazer.jpg"
-  },
 
   {
     "brand": "Petlas",
@@ -29,20 +15,7 @@
     "images": "img/tires/passenger/Petlas/ElegantPT311.png"
   },
 
-  {
-    "brand": "Windforce",
-    "model": "Catchfors A/S",
-    "size": {
-      "width": 185,
-      "profile": 65,
-      "diameter": 14
-    },
-    "season": "Всесезонные",
-    "loadIndex": "86 (до 530 кг)",
-    "speedIndex": "H (до 210 км/ч)",
-    "price": 780,
-    "images": "img/tires/passenger/Windfors/CatchforsAS.png"
-  },
+
 
   {
     "brand": "Windforce",

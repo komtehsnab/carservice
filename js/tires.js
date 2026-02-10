@@ -89,10 +89,21 @@ function renderTires(jsonPath, containerId) {
     });
 }
 
-renderTires("data/tires/passenger/13winterSummer.json", "tires13");
-renderTires("data/tires/passenger/14winter.json", "tires14winter");
-renderTires("data/tires/passenger/15winter.json", "tires15winter");
-renderTires("data/tires/passenger/16winter.json", "tires16winter");
+renderTires("data/tires/passenger/13winter.json", "13winter");
+renderTires("data/tires/passenger/14winter.json", "14winter");
+renderTires("data/tires/passenger/15winter.json", "15winter");
+renderTires("data/tires/passenger/16winter.json", "16winter");
+
+renderTires("data/tires/passenger/13summer.json", "13summer");
+renderTires("data/tires/passenger/14summer.json", "14summer");
+renderTires("data/tires/passenger/15summer.json", "15summer");
+renderTires("data/tires/passenger/16summer.json", "16summer");
+
+renderTires("data/tires/passenger/14_4s.json", "14_4s");
+renderTires("data/tires/passenger/15_4s.json", "15_4s");
+renderTires("data/tires/passenger/16_4s.json", "16_4s");
+
+renderTires("data/tires/truck.json", "truck");
 
 
 function openImage(src) {
