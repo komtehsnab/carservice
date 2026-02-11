@@ -4,18 +4,22 @@
   object-fit: contain;   /* НЕ обрезает шину */
 }
 
-.tiresWinterBg{
+.winterTiresBg{
   background-image: url('/img/tires/bg/winter.png')
 }
 
-.tiresSummerBg{
-  background-image: url('/img/tires/bg/summer2.png')
+.summerTiresBg{
+  background-image: url('/img/tires/bg/summer4.jpg')
 }
 
-.tires4sBg{
+.ASTiresBg{
   background-image: url('/img/tires/bg/4s_1.png')
 }
 
-.tiresTruckBg{
+.truckTiresBg{
+  background-image: url('/img/tires/bg/truck.png')
+}
+
+.agroTiresBg{
   background-image: url('/img/tires/bg/truck.png')
 }
