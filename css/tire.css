@@ -4,22 +4,57 @@
   object-fit: contain;   /* НЕ обрезает шину */
 }
 
-.winterTiresBg{
-  background-image: url('/img/tires/bg/winter.png')
+.winterTiresBg {
+  background: linear-gradient(
+    180deg,
+    #FFFFFF 0%,
+    #E0FFFF 100%
+  );
 }
 
 .summerTiresBg{
-  background-image: url('/img/tires/bg/summer4.jpg')
+  background: linear-gradient(
+    180deg,
+    #FFFFFF 0%,
+    #FFFFE0 100%
+  );
 }
 
 .ASTiresBg{
-  background-image: url('/img/tires/bg/4s_1.png')
+  background: linear-gradient(
+    180deg,
+    #FFFFFF 0%,
+    #E6E6FA 100%
+  );
 }
 
 .truckTiresBg{
-  background-image: url('/img/tires/bg/truck.png')
+  background: linear-gradient(
+    180deg,
+    #FFFFFF 0%,
+    #fdf2ed 100%
+  );
 }
 
 .agroTiresBg{
-  background-image: url('/img/tires/bg/truck.png')
+  background: linear-gradient(
+      180deg,
+      #F8FAFC 0%,
+      #caf7e8 100%
+    );
+  }
+
+.tireTubes{
+  background: linear-gradient(
+    180deg,
+    #FFFFFF 0%,
+    #e3e4e2 100%
+  );
+}
+
+
+.tireService{
+  left: 15%;
+  right: auto;
+  bottom: 10%;
 }
