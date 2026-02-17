@@ -1,4 +1,18 @@
 [
+  {
+    "brand": "Tracmax",
+    "model": "X-privilo TX2",
+    "size": {
+      "width": 175,
+      "profile": 65,
+      "diameter": 14
+    },
+    "season": "Летние",
+    "loadIndex": "82 (до 475 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 790,
+    "images": "img/tires/passenger/Tracmax/XPriviloTX2.webp"
+  },
 
   {
     "brand": "Petlas",
@@ -15,8 +29,6 @@
     "images": "img/tires/passenger/Petlas/ElegantPT311.png"
   },
 
-
-
   {
     "brand": "Windforce",
     "model": "Catchfors H/P ",
@@ -29,7 +41,7 @@
     "loadIndex": "86 (до 530 кг)",
     "speedIndex": "H (до 210 км/ч)",
     "price": 770,
-    "images": "img/tires/passenger/Windfors/CatchforsHP.png"
+    "images": "img/tires/passenger/Windforce/CatchforsHP.jpg"
   },
 
   {
@@ -44,7 +56,7 @@
     "loadIndex": "84 (до 500 кг)",
     "speedIndex": "H (до 210 км/ч)",
     "price": 720,
-    "images": "img/tires/passenger/Sunwide/Rolit6.png"
+    "images": "img/tires/passenger/Sunwide/Rolit6.jpg"
   },
 
   {
@@ -59,7 +71,7 @@
     "loadIndex": "86 (до 530 кг)",
     "speedIndex": "H (до 210 км/ч)",
     "price": 890,
-    "images": "img/tires/passenger/Sailun/AtrezzoEco.png"
+    "images": "img/tires/passenger/Sailun/AtrezzoEco.webp"
   },
 
   {
@@ -74,7 +86,7 @@
     "loadIndex": "86 (до 530 кг)",
     "speedIndex": "T (до 190 км/ч)",
     "price": 950,
-    "images": "img/tires/passenger/Sailun/IceBlazerArctic.webp"
+    "images": "img/tires/passenger/Petlas/ElegantPT311.png"
   },
 
   {
@@ -89,7 +101,7 @@
     "loadIndex": "90 (до 600 кг)",
     "speedIndex": "T (до 190 км/ч)",
     "price": 850,
-    "images": "img/tires/passenger/Tunga/Zodiak2.png"
+    "images": "img/tires/passenger/Tunga/Zodiak2.webp"
   },
 
   {
@@ -104,7 +116,7 @@
     "loadIndex": "88 (до 560 кг)",
     "speedIndex": "T (до 190 км/ч)",
     "price": 790,
-    "images": "img/tires/passenger/Petlas/ElegantPT311.webp"
+    "images": "img/tires/passenger/Petlas/ElegantPT311.png"
   },
 
   {
@@ -119,6 +131,6 @@
     "loadIndex": "88 (до 560 кг)",
     "speedIndex": "T (до 190 км/ч)",
     "price": 760,
-    "images": "img/tires/passenger/Tracmax/TX2.jpg"
+    "images": "img/tires/passenger/Tracmax/XPriviloTX2.webp"
   }
 ]

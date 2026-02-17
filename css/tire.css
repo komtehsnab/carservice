@@ -58,3 +58,8 @@
   right: auto;
   bottom: 10%;
 }
+
+.carousel-img {
+    height: 400px;        /* нужная высота */
+    object-fit: cover;    /* чтобы не растягивалась криво */
+}

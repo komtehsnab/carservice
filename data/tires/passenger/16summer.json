@@ -1,6 +1,6 @@
 [
   {
-    "brand": "Windfors",
+    "brand": "Windforce",
     "model": "Catchforce H/P",
     "size": {
       "width": 205,
@@ -11,7 +11,7 @@
     "loadIndex": "91 (до 615 кг)",
     "speedIndex": "V (до 240 км/ч)",
     "price": 890,
-    "images": "img/tires/passenger/Petlas/CatchforceHP.png"
+    "images": "img/tires/passenger/Windforce/CatchforsHP.jpg"
   },
 
   {
@@ -41,7 +41,7 @@
     "loadIndex": "94 (до 670 кг)",
     "speedIndex": "W (до 270 км/ч)",
     "price": 1070,
-    "images": "img/tires/passenger/Tracmax/XPriviloTX3.jpg"
+    "images": "img/tires/passenger/Tracmax/XPriviloTX3.webp"
   },
 
   {
@@ -56,7 +56,7 @@
     "loadIndex": "91 (до 615 кг)",
     "speedIndex": "Y (до 300 км/ч)",
     "price": 1070,
-    "images": "img/tires/passenger/Sailun/AtrezzoZSR2.jpg"
+    "images": "img/tires/passenger/Sailun/AtrezzoZSR2.webp"
   },
 
   {
@@ -71,12 +71,12 @@
     "loadIndex": "94 (до 670 кг)",
     "speedIndex": "T (до 190 км/ч)",
     "price": 1070,
-    "images": "img/tires/passenger/Tunga/Zodiak2.jpg"
+    "images": "img/tires/passenger/Tunga/Zodiak2.webp"
   },
 
   {
-    "brand": "Windfors",
-    "model": "Catchforce H/P",
+    "brand": "Windforce",
+    "model": "Catchfors H/P",
     "size": {
       "width": 205,
       "profile": 60,
@@ -86,7 +86,7 @@
     "loadIndex": "92 (до 630 кг)",
     "speedIndex": "V (до 240 км/ч)",
     "price": 990,
-    "images": "img/tires/passenger/Petlas/CatchforceHP.png"
+    "images": "img/tires/passenger/Windforce/CatchforsHP.jpg"
   },
 
   {
@@ -101,7 +101,7 @@
     "loadIndex": "92 (до 630 кг)",
     "speedIndex": "H (до 210 км/ч)",
     "price": 1170,
-    "images": "img/tires/passenger/Petlas/ProgreenPT525.jpg"
+    "images": "img/tires/passenger/Petlas/ProgreenPT525.png"
   },
 
   {

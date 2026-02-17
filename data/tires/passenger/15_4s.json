@@ -1,5 +1,20 @@
 [
   {
+    "brand": "Rovelo",
+    "model": "All Weather R4S",
+    "size": {
+      "width": 185,
+      "profile": 65,
+      "diameter": 15
+    },
+    "season": "Всесезонные",
+    "loadIndex": "88 (до 560 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 890,
+    "images": "img/tires/passenger/Rovelo/4s.webp"
+  },
+
+  {
     "brand": "Windforce",
     "model": "Catchfors A/SII",
     "size": {
@@ -11,7 +26,21 @@
     "loadIndex": "92 (до 630 кг)",
     "speedIndex": "T (до 190 км/ч)",
     "price": 890,
-    "images": "img/tires/passenger/Windforce/CatchforsASII.jpg"
+    "images": "img/tires/passenger/Windforce/CatchforsASII.png"
+  },
+  {
+    "brand": "Rovelo",
+    "model": "All Weather R4S",
+    "size": {
+      "width": 195,
+      "profile": 60,
+      "diameter": 15
+    },
+    "season": "Всесезонные",
+    "loadIndex": "88 (до 560 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 930,
+    "images": "img/tires/passenger/Rovelo/4s.webp"
   },
 
   {
@@ -26,7 +55,7 @@
     "loadIndex": "91 (до 615 кг)",
     "speedIndex": "T (до 190 км/ч)",
     "price": 970,
-    "images": "img/tires/passenger/Windforce/CatchforsASII.jpg"
+    "images": "img/tires/passenger/Windforce/CatchforsASII.png"
   },
 
   {
@@ -39,9 +68,9 @@
     },
     "season": "Всесезонные",
     "loadIndex": "91 (до 615 кг)",
-    "speedIndex": "V (до 240 км/ч)",
+    "speedIndex": "H (до 210 км/ч)",
     "price": 1130,
-    "images": "img/tires/passenger/Laufenn/GFit4SLH71.jpg"
+    "images": "img/tires/passenger/Laufenn/LH71.png"
   },
 
   {

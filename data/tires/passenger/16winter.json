@@ -45,6 +45,21 @@
   },
 
   {
+    "brand": "iLINK",
+    "model": "IL868 Winter",
+    "size": {
+      "width": 205,
+      "profile": 55,
+      "diameter": 16
+    },
+    "season": "Зимние",
+    "loadIndex": "91 (до 615 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 1150,
+    "images": "img/tires/passenger/iLink/IL868Winter.jpg"
+  },
+
+  {
     "brand": "Windforce",
     "model": "Snowblazer",
     "size": {
