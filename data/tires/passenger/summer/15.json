@@ -87,5 +87,35 @@
     "speedIndex": "H (до 210 км/ч)",
     "price": 940,
     "images": "img/tires/passenger/Sailun/AtrezzoElite.jpg"
-  }
+  },
+
+  {
+    "brand": "Windforce",
+    "model": "Catchfors H/P",
+    "size": {
+      "width": 205,
+      "profile": 65,
+      "diameter": 15
+    },
+    "season": "Летние",
+    "loadIndex": "94 (до 670 кг)",
+    "speedIndex": "V (до 240 км/ч)",
+    "price": 990,
+    "images": "img/tires/passenger/Windforce/CatchforsHP.jpg"
+  },
+
+  {
+  "brand": "Sunwide",
+  "model": "Rolit 6",
+  "size": {
+    "width": 205,
+    "profile": 70,
+    "diameter": 15
+  },
+  "season": "Летние",
+  "loadIndex": "96 (до 710 кг)",
+  "speedIndex": "H (до 210 км/ч)",
+  "price": 1070,
+  "images": "img/tires/passenger/Sunwide/Rolit6.jpg"
+}
 ]

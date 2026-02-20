@@ -1,0 +1,31 @@
+[
+  {
+    "brand": "Sailun",
+    "model": "Atrezzo 4Seasons",
+    "size": {
+      "width": 205,
+      "profile": 60,
+      "diameter": 16
+    },
+    "season": "Всесезонные",
+    "loadIndex": "96 (до 710 кг)",
+    "speedIndex": "V (до 240 км/ч) XL",
+    "price": 1230,
+    "images": "img/tires/passenger/Sailun/Atrezzo4Seasons.jpg"
+  },
+
+  {
+    "brand": "Sailun",
+    "model": "Atrezzo 4Seasons",
+    "size": {
+      "width": 215,
+      "profile": 60,
+      "diameter": 16
+    },
+    "season": "Всесезонные",
+    "loadIndex": "99 (до 775 кг)",
+    "speedIndex": "H (до 210 км/ч) XL",
+    "price": 1390,
+    "images": "img/tires/passenger/Sailun/Atrezzo4Seasons.jpg"
+  }
+]

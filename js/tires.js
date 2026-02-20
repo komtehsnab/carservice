@@ -73,7 +73,7 @@ function renderTires(jsonPath, containerId) {
 
             <div class="card-body">
               <h5 class="card-title">
-                ${tire.brand ?? ""} ${tire.model ?? ""} ${size}
+                ${tire.brand ?? ""} ${tire.model ?? ""} ${size ?? ""}
               </h5>
             </div>
 
@@ -89,21 +89,22 @@ function renderTires(jsonPath, containerId) {
     });
 }
 
-renderTires("data/tires/passenger/13winter.json", "13winter");
-renderTires("data/tires/passenger/14winter.json", "14winter");
-renderTires("data/tires/passenger/15winter.json", "15winter");
-renderTires("data/tires/passenger/16winter.json", "16winter");
+renderTires("data/tires/passenger/winter/13.json", "13winter");
+renderTires("data/tires/passenger/winter/14.json", "14winter");
+renderTires("data/tires/passenger/winter/15.json", "15winter");
+renderTires("data/tires/passenger/winter/16.json", "16winter");
 
-renderTires("data/tires/passenger/13summer.json", "13summer");
-renderTires("data/tires/passenger/14summer.json", "14summer");
-renderTires("data/tires/passenger/15summer.json", "15summer");
-renderTires("data/tires/passenger/16summer.json", "16summer");
+renderTires("data/tires/passenger/summer/13.json", "13summer");
+renderTires("data/tires/passenger/summer/14.json", "14summer");
+renderTires("data/tires/passenger/summer/15.json", "15summer");
+renderTires("data/tires/passenger/summer/16.json", "16summer");
+renderTires("data/tires/passenger/summer/17.json", "17summer");
 
-renderTires("data/tires/passenger/14_4s.json", "14_4s");
-renderTires("data/tires/passenger/15_4s.json", "15_4s");
-renderTires("data/tires/passenger/16_4s.json", "16_4s");
+renderTires("data/tires/passenger/allSeasons/14.json", "14_4s");
+renderTires("data/tires/passenger/allSeasons/15.json", "15_4s");
+renderTires("data/tires/passenger/allSeasons/16.json", "16_4s");
 
-renderTires("data/tires/truck.json", "truck");
+renderTires("data/tires/lightTruck.json", "lightTruck");
 
 
 function openImage(src) {
