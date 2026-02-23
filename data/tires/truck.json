@@ -1,0 +1,46 @@
+[
+  {
+    "brand": "Kapsen",
+    "model": "HS918",
+    "size": {
+      "width": "8.25",
+      "profile": "",
+      "diameter": "20"
+    },
+    "season": "Летние",
+    "loadIndex": "139 (до 2430 кг)",
+    "speedIndex": "K (до 110 км/ч)",
+    "price": 3490,
+    "images": "img/tires/truck/Kapsen/HS918.jpg"
+  },
+
+  {
+    "brand": "Doupro",
+    "model": "ST928",
+    "size": {
+      "width": "9.00",
+      "profile": "",
+      "diameter": "20"
+    },
+    "season": "Всесезонные",
+    "loadIndex": "144(до 2800 кг)",
+    "speedIndex": "K (до 110 км/ч)",
+    "price": 3690,
+    "images": "img/tires/truck/Doupro/ST928.jpg"
+  },
+
+  {
+    "brand": "Кама",
+    "model": "U-2",
+    "size": {
+      "width": "8.25",
+      "profile": "",
+      "diameter": "20"
+    },
+    "season": "Всесезонные",
+    "loadIndex": "125 (до 1650 кг / 122 - до 1500 кг)",
+    "speedIndex": "J (до 100 км/ч)",
+    "price": 2940,
+    "images": "img/tires/truck/Kama/U2.jpg"
+  }
+]

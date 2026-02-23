@@ -1,0 +1,103 @@
+[
+  {
+    "brand": "Sunwide",
+    "model": "Travomate",
+    "size": {
+      "width": 195,
+      "profile": "",
+      "diameter": "14C"
+    },
+    "season": "Летние",
+    "loadIndex": "106 (до 950 кг)",
+    "speedIndex": "Q (до 160 км/ч)",
+    "price": 1140,
+    "images": "img/tires/lightTruck/Sunwide/Travomate.jpg"
+  },
+  {
+    "brand": "Sailun",
+    "model": "Commercio Ice",
+    "size": {
+      "width": 195,
+      "profile": 70,
+      "diameter": "15C"
+    },
+    "season": "Зимние",
+    "loadIndex": "104 (до 900 кг)",
+    "speedIndex": "R (до 170 км/ч)",
+    "price": 1290,
+    "images": "img/tires/lightTruck/Sailun/CommercioIce.webp"
+  },
+
+  {
+    "brand": "Petlas",
+    "model": "Full Grip PT925",
+    "size": {
+      "width": 185,
+      "profile": 75,
+      "diameter": "16C"
+    },
+    "season": "Зимние",
+    "loadIndex": "104 (до 900 кг)",
+    "speedIndex": "R (до 170 км/ч)",
+    "price": 1740,
+    "images": "img/tires/lightTruck/Petlas/FullgripPT925.png"
+  },
+
+  {
+    "brand": "Petlas",
+    "model": "Full Grip PT925",
+    "size": {
+      "width": 225,
+      "profile": 70,
+      "diameter": "15C"
+    },
+    "season": "Зимние",
+    "loadIndex": "112 (до 1120 кг)",
+    "speedIndex": "R (до 170 км/ч)",
+    "price": 1690,
+    "images": "img/tires/lightTruck/Petlas/FullgripPT925.png"
+  },
+
+  {
+    "brand": "Windforce",
+    "model": "Catchfors A/T",
+    "size": {
+      "width": 185,
+      "profile": 75,
+      "diameter": "16C"
+    },
+    "season": "Всесезонные",
+    "loadIndex": "104 (до 900 кг)",
+    "speedIndex": "S (до 180 км/ч)",
+    "price": 1340,
+    "images": "img/tires/lightTruck/Windforce/CatchforsAT.jpg"
+  },
+  {
+    "brand": "Tracmax",
+    "model": "X-Privilo VS450",
+    "size": {
+      "width": 185,
+      "profile": 75,
+      "diameter": "16C"
+    },
+    "season": "Зимние",
+    "loadIndex": "104 (до 900 кг)",
+    "speedIndex": "R (до 170 км/ч)",
+    "price": 1290,
+    "images": "img/tires/lightTruck/Tracmax/XPriviloS450.webp"
+  },
+  {
+    "brand": "Comforser ",
+    "model": "CF360",
+    "size": {
+      "width": 195,
+      "profile": 65,
+      "diameter": "16C"
+    },
+    "season": "Зимние",
+    "loadIndex": "104 (до 900 кг)",
+    "speedIndex": "R (до 170 км/ч)",
+    "price": 1370,
+    "images": "img/tires/lightTruck/Comforser/CF360.webp"
+  }
+]

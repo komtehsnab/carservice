@@ -1,0 +1,61 @@
+[
+  {
+    "brand": "Satoya",
+    "model": "",
+    "size": {
+      "width": "15.5",
+      "profile": "",
+      "diameter": "38"
+    },
+    "season": "",
+    "loadIndex": "",
+    "speedIndex": "",
+    "price": 990,
+    "images": "img/tires/tube/Satoya/15_5-38.webp"
+  },
+
+  {
+    "brand": "Asian Gold",
+    "model": "",
+    "size": {
+      "width": "6.00",
+      "profile": "",
+      "diameter": "16"
+    },
+    "season": "",
+    "loadIndex": "",
+    "speedIndex": "",
+    "price": 240,
+    "images": "img/tires/tube/AsianGold/6_00-16.jpg"
+  },
+
+  {
+    "brand": "Asian Gold",
+    "model": "",
+    "size": {
+      "width": "6.00-6.50",
+      "profile": "",
+      "diameter": "16"
+    },
+    "season": "",
+    "loadIndex": "",
+    "speedIndex": "",
+    "price": 230,
+    "images": "img/tires/tube/AsianGold/6_00_6_50-16.jpg"
+  },
+
+  {
+    "brand": "Asian Gold",
+    "model": "",
+    "size": {
+      "width": "9.00",
+      "profile": "",
+      "diameter": "16"
+    },
+    "season": "",
+    "loadIndex": "",
+    "speedIndex": "",
+    "price": 390,
+    "images": "img/tires/tube/AsianGold/9_00-16.jpg"
+  }
+]
