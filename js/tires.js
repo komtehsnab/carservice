@@ -105,6 +105,12 @@ renderTires("data/tires/passenger/allSeasons/15.json", "15_4s");
 renderTires("data/tires/passenger/allSeasons/16.json", "16_4s");
 
 renderTires("data/tires/lightTruck.json", "lightTruck");
+renderTires("data/tires/truck.json", "truck");
+
+renderTires("data/tires/agro.json", "agro");
+
+renderTires("data/tires/tube.json", "tube");
+
 
 
 function openImage(src) {

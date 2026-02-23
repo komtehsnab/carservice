@@ -342,8 +342,29 @@
 
 <!--Легкогрузовые авто-->
 
-<div class="truckTiresBg p-2 m-2 rounded">
+<div class="lightTruckTiresBg p-2 m-2 rounded">
     <p class="h2" style="padding: 20px 20px 20px 50px;">Легкогрузовой автомобиль</p>
+    <div class="accordion" id="accordionExampleLightTruck">
+        <div class="accordion-item">
+            <h2 class="accordion-header">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#collapseOneLightTruck"
+                        aria-expanded="true" aria-controls="collapseOneLightTruck">
+                </button>
+            </h2>
+            <div id="collapseOneLightTruck" class="accordion-collapse collapse" data-bs-parent="#accordionExampleLightTruck">
+                <div class="accordion-body">
+                    <div class="d-flex flex-wrap gap-3" id="lightTruck"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--Грузовые авто-->
+
+<div class="truckTiresBg p-2 m-2 rounded">
+    <p class="h2" style="padding: 20px 20px 20px 50px;">Грузовой автомобиль</p>
     <div class="accordion" id="accordionExampleTruck">
         <div class="accordion-item">
             <h2 class="accordion-header">
@@ -354,7 +375,7 @@
             </h2>
             <div id="collapseOneTruck" class="accordion-collapse collapse" data-bs-parent="#accordionExampleTruck">
                 <div class="accordion-body">
-                    <div class="d-flex flex-wrap gap-3" id="lightTruck"></div>
+                    <div class="d-flex flex-wrap gap-3" id="truck"></div>
                 </div>
             </div>
         </div>
@@ -375,16 +396,7 @@
             </h2>
             <div id="collapseOneAgro" class="accordion-collapse collapse" data-bs-parent="#accordionExampleAgro">
                 <div class="accordion-body">
-                    <strong>This is the first item’s accordion body.</strong> It is shown by default, until the
-                    collapse
-                    plugin adds the appropriate classes that we use to style each element. These classes control the
-                    overall
-                    appearance, as well as the showing and hiding via CSS transitions. You can modify any of this
-                    with
-                    custom CSS or overriding our default variables. It’s also worth noting that just about any HTML
-                    can
-                    go
-                    within the <code>.accordion-body</code>, though the transition does limit overflow.
+                    <div class="d-flex flex-wrap gap-3" id="agro"></div>
                 </div>
             </div>
         </div>
@@ -405,13 +417,9 @@
             </h2>
             <div id="collapseOneTube" class="accordion-collapse collapse" data-bs-parent="#accordionExampleTube">
                 <div class="accordion-body">
-                    <strong>This is the first item’s accordion body.</strong> It is shown by default, until the collapse
-                    plugin adds the appropriate classes that we use to style each element. These classes control the
-                    overall
-                    appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with
-                    custom CSS or overriding our default variables. It’s also worth noting that just about any HTML can
-                    go
-                    within the <code>.accordion-body</code>, though the transition does limit overflow.
+                    <div class="accordion-body">
+                        <div class="d-flex flex-wrap gap-3" id="tube"></div>
+                    </div>
                 </div>
             </div>
         </div>

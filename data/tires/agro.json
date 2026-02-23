@@ -1,0 +1,59 @@
+[
+  {
+    "brand": "Petlas",
+    "model": "NT-30",
+    "size": {
+      "width": "9.00",
+      "profile": "",
+      "diameter": "16"
+    },
+    "season": "Всесезонные",
+    "loadIndex": "125 (1485 кг при 40 км/ч / 1650 кг при 30 км/ч)",
+    "speedIndex": "A (до 40 км/ч)",
+    "price": 2890,
+    "images": "img/tires/agro/Petlas/NT30.jpg"
+  },
+  {
+    "brand": "Atf",
+    "model": "F2",
+    "size": {
+      "width": "9.00",
+      "profile": "",
+      "diameter": "16"
+    },
+    "season": "Всесезонные",
+    "loadIndex": "",
+    "speedIndex": "",
+    "price": 2090,
+    "images": "img/tires/agro/ATF/F2.jpg"
+  },
+
+  {
+    "brand": "Atf",
+    "model": "F2",
+    "size": {
+      "width": "7.50",
+      "profile": "",
+      "diameter": "20"
+    },
+    "season": "Всесезонные",
+    "loadIndex": "",
+    "speedIndex": "",
+    "price": 2090,
+    "images": "img/tires/agro/ATF/F2.jpg"
+  },
+  {
+    "brand": "Satoya",
+    "model": "Grip King",
+    "size": {
+      "width": "11.2",
+      "profile": "",
+      "diameter": "20"
+    },
+    "season": "Всесезонные",
+    "loadIndex": "",
+    "speedIndex": "",
+    "price": 2950,
+    "images": "img/tires/agro/Satoya/GripKing.jpg"
+  }
+]
