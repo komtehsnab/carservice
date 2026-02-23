@@ -12,7 +12,6 @@ fetch('data/generator-starter-services.json')
           <th scope="row">${i + 1}</th>
           <td>${s.problem}</td>
           <td>${s.solution}</td>
-          <td>${s.price}</td>
         </tr>
       `);
     });
