@@ -12,10 +12,7 @@ fetch('data/battery.json')
           <td>${b.ah}</td>
           <td>${b.cca}</td>
           <td>${b.size}</td>
-          <td>${b.weight}</td>
           <td>${b.polarity}</td>
-          <td>${b.terminals}</td>
-          <td>${b.mount}</td>
           <td>${b.type}</td>
           <td>${b.price} руб.</td>
         </tr>

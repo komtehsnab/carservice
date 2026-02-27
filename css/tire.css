@@ -63,3 +63,34 @@
     height: 400px;        /* нужная высота */
     object-fit: cover;    /* чтобы не растягивалась криво */
 }
+
+.accordion-body{
+    margin: 0 auto; */
+}
+
+.accordion{
+    margin: 0 auto; */
+}
+
+.carousel-caption {
+    bottom: 0;
+    top: auto;
+    padding-bottom: 10px;
+}
+
+.carousel-title {
+    font-size: clamp(12px, 3.5vw, 28px);
+}
+/*
+
+.carousel-caption{
+    tex
+}
+*/
+
+/*
+#header {
+    background-color: #E6E6FA*/
+/* светло-серый фон *//*
+
+}*/
