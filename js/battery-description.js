@@ -9,10 +9,10 @@ fetch('data/battery-description.json')
     batteries.forEach(b => {
       // Генерируем карточку
       const cardHTML = `
-        <div class="card w-75 p-3 mb-3">
+        <div class="card p-3 mb-3">
           <div class="row g-0">
             <div class="col-md-4">
-              <img src="${b.img}" class="img-fluid rounded-start" alt="${b.title}">
+              <img src="${b.img}" class="img-fluid rounded-start w-75" alt="${b.title}">
             </div>
             <div class="col-md-8">
               <div class="card-body ">

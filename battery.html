@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="ru">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,7 +19,7 @@
 <nav id="navbar"></nav>
 
 <!-- MAIN -->
-<main class="main-battery m-4" >
+<main class="main-battery p-3" >
 
     <!--<h1>Автомобильные аккумуляторы в Рыбнице</h1>-->
 
@@ -139,10 +139,12 @@
 
     <!-- ВИДЫ АКБ -->
 
-    <div class="card p-3 mb-3" id="batteryContainer"></div>
+    <div class="card p-3" id="batteryContainer">
+        <h2 class="h2 text-center fst-italic">Типы АКБ</h2>
+    </div>
 
     <!-- АКБ -->
-    <table class="table table-warning table-striped" id="accCatalog">
+    <table class="table table-warning table-striped rounded" id="accCatalog">
         <thead>
         <tr>
             <th scope="col">#</th>
@@ -158,8 +160,6 @@
         <tbody id="batteryBody"><!-- строки из JS --></tbody>
 
     </table>
-
-
 </main>
 
 <script src="js/battery.js"></script>
