@@ -11,7 +11,7 @@
     "loadIndex": "88 (до 560 кг)",
     "speedIndex": "H (до 210 км/ч)",
     "price": 890,
-    "images": "img/tires/passenger/Rovelo/4s.webp"
+    "images": "img/tires/passenger/allSeasons/Rovelo/4s.webp"
   },
 
   {
@@ -26,8 +26,9 @@
     "loadIndex": "92 (до 630 кг)",
     "speedIndex": "T (до 190 км/ч)",
     "price": 890,
-    "images": "img/tires/passenger/Windforce/CatchforsASII.png"
+    "images": "img/tires/passenger/allSeasons/Windforce/CatchforsASII.png"
   },
+
   {
     "brand": "Rovelo",
     "model": "All Weather R4S",
@@ -40,7 +41,7 @@
     "loadIndex": "88 (до 560 кг)",
     "speedIndex": "H (до 210 км/ч)",
     "price": 930,
-    "images": "img/tires/passenger/Rovelo/4s.webp"
+    "images": "img/tires/passenger/allSeasons/Rovelo/4s.webp"
   },
 
   {
@@ -55,22 +56,7 @@
     "loadIndex": "91 (до 615 кг)",
     "speedIndex": "T (до 190 км/ч)",
     "price": 970,
-    "images": "img/tires/passenger/Windforce/CatchforsASII.png"
-  },
-
-  {
-    "brand": "Laufenn",
-    "model": "G-Fit 4S LH71",
-    "size": {
-      "width": 195,
-      "profile": 65,
-      "diameter": 15
-    },
-    "season": "Всесезонные",
-    "loadIndex": "91 (до 615 кг)",
-    "speedIndex": "H (до 210 км/ч)",
-    "price": 1130,
-    "images": "img/tires/passenger/Laufenn/LH71.png"
+    "images": "img/tires/passenger/allSeasons/Windforce/CatchforsASII.png"
   },
 
   {
@@ -85,6 +71,6 @@
     "loadIndex": "91 (до 615 кг)",
     "speedIndex": "T (до 190 км/ч)",
     "price": 1030,
-    "images": "img/tires/passenger/Sailun/Atrezzo4Seasons.jpg"
+    "images": "img/tires/passenger/allSeasons/Sailun/Atrezzo4Seasons.jpg"
   }
 ]

@@ -3,21 +3,6 @@
     "brand": "Sailun",
     "model": "Atrezzo Elite",
     "size": {
-      "width": 185,
-      "profile": 65,
-      "diameter": 15
-    },
-    "season": "Летние",
-    "loadIndex": "88 (до 560 кг)",
-    "speedIndex": "H (до 210 км/ч)",
-    "price": 950,
-    "images": "img/tires/passenger/Sailun/AtrezzoElite.jpg"
-  },
-
-  {
-    "brand": "Sailun",
-    "model": "Atrezzo Elite",
-    "size": {
       "width": 195,
       "profile": 60,
       "diameter": 15
@@ -26,7 +11,7 @@
     "loadIndex": "88 (до 560 кг)",
     "speedIndex": "V (до 240 км/ч)",
     "price": 950,
-    "images": "img/tires/passenger/Sailun/AtrezzoElite.jpg"
+    "images": "img/tires/passenger/summer/Sailun/AtrezzoElite.jpg"
   },
 
   {
@@ -41,22 +26,7 @@
     "loadIndex": "91 (до 615 кг)",
     "speedIndex": "V (до 240 км/ч)",
     "price": 850,
-    "images": "img/tires/passenger/Windforce/CatchforsHP.jpg"
-  },
-
-  {
-    "brand": "Hankook",
-    "model": "Ventus Prime3 K125",
-    "size": {
-      "width": 195,
-      "profile": 65,
-      "diameter": 15
-    },
-    "season": "Летние",
-    "loadIndex": "91 (до 615 кг)",
-    "speedIndex": "H (до 210 км/ч)",
-    "price": 1150,
-    "images": "img/tires/passenger/Hankook/125A.jpg"
+    "images": "img/tires/passenger/summer/Windforce/CatchforsHP.jpg"
   },
 
   {
@@ -70,8 +40,8 @@
     "season": "Летние",
     "loadIndex": "91 (до 615 кг)",
     "speedIndex": "H (до 210 км/ч)",
-    "price": 980,
-    "images": "img/tires/passenger/Petlas/ImperiumPT515.jpg"
+    "price": 1050,
+    "images": "img/tires/passenger/summer/Petlas/ImperiumPT515.jpg"
   },
 
   {
@@ -86,7 +56,7 @@
     "loadIndex": "95 (до 690 кг)",
     "speedIndex": "H (до 210 км/ч)",
     "price": 940,
-    "images": "img/tires/passenger/Sailun/AtrezzoElite.jpg"
+    "images": "img/tires/passenger/summer/Sailun/AtrezzoElite.jpg"
   },
 
   {
@@ -101,7 +71,7 @@
     "loadIndex": "94 (до 670 кг)",
     "speedIndex": "V (до 240 км/ч)",
     "price": 990,
-    "images": "img/tires/passenger/Windforce/CatchforsHP.jpg"
+    "images": "img/tires/passenger/summer/Windforce/CatchforsHP.jpg"
   },
 
   {
@@ -115,7 +85,7 @@
   "season": "Летние",
   "loadIndex": "96 (до 710 кг)",
   "speedIndex": "H (до 210 км/ч)",
-  "price": 1070,
-  "images": "img/tires/passenger/Sunwide/Rolit6.jpg"
+  "price": 1090,
+  "images": "img/tires/passenger/summer/Sunwide/Rolit6.jpg"
 }
 ]

@@ -10,8 +10,8 @@
     "season": "Летние",
     "loadIndex": "91 (до 615 кг)",
     "speedIndex": "V (до 240 км/ч)",
-    "price": 890,
-    "images": "img/tires/passenger/Windforce/CatchforsHP.jpg"
+    "price": 1050,
+    "images": "img/tires/passenger/summer/Windforce/CatchforsHP.jpg"
   },
 
   {
@@ -26,7 +26,7 @@
     "loadIndex": "94 (до 670 кг)",
     "speedIndex": "V (до 240 км/ч)",
     "price": 950,
-    "images": "img/tires/passenger/Sunwide/Rolit6.jpg"
+    "images": "img/tires/passenger/summer/Sunwide/Rolit6.jpg"
   },
 
   {
@@ -41,7 +41,7 @@
     "loadIndex": "94 (до 670 кг)",
     "speedIndex": "W (до 270 км/ч)",
     "price": 1070,
-    "images": "img/tires/passenger/Tracmax/XPriviloTX3.webp"
+    "images": "img/tires/passenger/summer/Tracmax/XPriviloTX3.webp"
   },
 
   {
@@ -55,8 +55,8 @@
     "season": "Летние",
     "loadIndex": "91 (до 615 кг)",
     "speedIndex": "Y (до 300 км/ч)",
-    "price": 1070,
-    "images": "img/tires/passenger/Sailun/AtrezzoZSR2.webp"
+    "price": 1030,
+    "images": "img/tires/passenger/summer/Sailun/AtrezzoZSR2.webp"
   },
 
   {
@@ -70,8 +70,8 @@
     "season": "Летние",
     "loadIndex": "94 (до 670 кг)",
     "speedIndex": "T (до 190 км/ч)",
-    "price": 1070,
-    "images": "img/tires/passenger/Tunga/Zodiak2.webp"
+    "price": 930,
+    "images": "img/tires/passenger/summer/Tunga/Zodiak2.webp"
   },
 
   {
@@ -86,22 +86,7 @@
     "loadIndex": "92 (до 630 кг)",
     "speedIndex": "V (до 240 км/ч)",
     "price": 990,
-    "images": "img/tires/passenger/Windforce/CatchforsHP.jpg"
-  },
-
-  {
-    "brand": "Rovelo",
-    "model": "RHP-780",
-    "size": {
-      "width": 205,
-      "profile": 60,
-      "diameter": 16
-    },
-    "season": "Летние",
-    "loadIndex": "92 (до 630 кг)",
-    "speedIndex": "V (до 240 км/ч)",
-    "price": 990,
-    "images": "img/tires/passenger/Rovelo/RHP780.jpg"
+    "images": "img/tires/passenger/summer/Windforce/CatchforsHP.jpg"
   },
 
   {
@@ -113,40 +98,10 @@
       "diameter": 16
     },
     "season": "Летние",
-    "loadIndex": "92 (до 630 кг)",
-    "speedIndex": "H (до 210 км/ч)",
-    "price": 1170,
-    "images": "img/tires/passenger/Petlas/ProgreenPT525.png"
-  },
-
-  {
-    "brand": "Laufenn",
-    "model": "S-Fit EQ LK01",
-    "size": {
-      "width": 205,
-      "profile": 60,
-      "diameter": 16
-    },
-    "season": "Летние",
-    "loadIndex": "92 (до 630 кг)",
-    "speedIndex": "V (до 240 км/ч)",
-    "price": 1040,
-    "images": "img/tires/passenger/Laufenn/LK01.webp"
-  },
-
-  {
-    "brand": "Sailun",
-    "model": "Atrezzo Elite",
-    "size": {
-      "width": 205,
-      "profile": 65,
-      "diameter": 16
-    },
-    "season": "Летние",
-    "loadIndex": "95 (до 690 кг)",
-    "speedIndex": "V (до 240 км/ч)",
-    "price": 1040,
-    "images": "img/tires/passenger/Sailun/AtrezzoElite.jpg"
+    "loadIndex": "94 (до 670 кг",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 1190,
+    "images": "img/tires/passenger/summer/Petlas/ProgreenPT525.png"
   },
 
   {
@@ -161,7 +116,7 @@
     "loadIndex": "97 (до 730 кг)",
     "speedIndex": "W (до 270 км/ч)",
     "price": 1150,
-    "images": "img/tires/passenger/Sailun/AtrezzoElite.jpg"
+    "images": "img/tires/passenger/summer/Sailun/AtrezzoElite.jpg"
   },
 
   {
@@ -176,7 +131,7 @@
     "loadIndex": "97 (до 730 кг)",
     "speedIndex": "W (до 270 км/ч)",
     "price": 1090,
-    "images": "img/tires/passenger/Tracmax/XPriviloTX1.webp"
+    "images": "img/tires/passenger/summer/Tracmax/XPriviloTX1.webp"
   },
 
   {
@@ -191,7 +146,7 @@
     "loadIndex": "95 (до 690 кг)",
     "speedIndex": "V (до 240 км/ч)",
     "price": 1090,
-    "images": "img/tires/passenger/Rovelo/RHP780.jpg"
+    "images": "img/tires/passenger/summer/Rovelo/RHP780.jpg"
   },
 
   {
@@ -206,7 +161,7 @@
     "loadIndex": "99 (до 775 кг)",
     "speedIndex": "V (до 240 км/ч) XL",
     "price": 1230,
-    "images": "img/tires/passenger/Sailun/AtrezzoElite.jpg"
+    "images": "img/tires/passenger/summer/Sailun/AtrezzoElite.jpg"
   },
 
   {
@@ -221,37 +176,7 @@
     "loadIndex": "95 (до 690 кг)",
     "speedIndex": "H (до 210 км/ч)",
     "price": 1230,
-    "images": "img/tires/passenger/Tracmax/XPriviloS130.webp"
-  },
-
-  {
-    "brand": "Sunwide",
-    "model": "Rolit 6",
-    "size": {
-      "width": 215,
-      "profile": 65,
-      "diameter": 16
-    },
-    "season": "Летние",
-    "loadIndex": "98 (до 750 кг)",
-    "speedIndex": "H (до 210 км/ч)",
-    "price": 1190,
-    "images": "img/tires/passenger/Sunwide/Rolit6.jpg"
-  },
-
-  {
-    "brand": "Laufenn",
-    "model": "S-Fit EQ LK01",
-    "size": {
-      "width": 215,
-      "profile": 65,
-      "diameter": 16
-    },
-    "season": "Летние",
-    "loadIndex": "99 (до 775 кг)",
-    "speedIndex": "V (до 240 км/ч)",
-    "price": 1530,
-    "images": "img/tires/passenger/Laufenn/LK01.webp"
+    "images": "img/tires/passenger/summer/Tracmax/XPriviloS130.webp"
   },
 
   {
@@ -266,7 +191,7 @@
     "loadIndex": "95 (до 690 кг)",
     "speedIndex": "V (до 240 км/ч)",
     "price": 1190,
-    "images": "img/tires/passenger/Sunwide/Rolit6.jpg"
+    "images": "img/tires/passenger/summer/Sunwide/Rolit6.jpg"
   },
 
   {
@@ -281,6 +206,6 @@
     "loadIndex": "120 (до 1400 кг)",
     "speedIndex": "Q (до 160 км/ч)",
     "price": 2190,
-    "images": "img/tires/passenger/Sunwide/Huntsman.jpg"
+    "images": "img/tires/passenger/summer/Sunwide/Huntsman.jpg"
   }
 ]

@@ -70,8 +70,9 @@
     "loadIndex": "104 (до 900 кг)",
     "speedIndex": "S (до 180 км/ч)",
     "price": 1340,
-    "images": "img/tires/lightTruck/Windforce/CatchforsAT.jpg"
+    "images": "img/tires/lightTruck/Windforce/CatchforsAT.webp"
   },
+
   {
     "brand": "Tracmax",
     "model": "X-Privilo VS450",

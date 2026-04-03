@@ -7,12 +7,13 @@
       "profile": "",
       "diameter": "16"
     },
-    "season": "Всесезонные",
+    "season": "",
     "loadIndex": "125 (1485 кг при 40 км/ч / 1650 кг при 30 км/ч)",
     "speedIndex": "A (до 40 км/ч)",
     "price": 2890,
     "images": "img/tires/agro/Petlas/NT30.jpg"
   },
+
   {
     "brand": "Atf",
     "model": "F2",
@@ -21,7 +22,7 @@
       "profile": "",
       "diameter": "16"
     },
-    "season": "Всесезонные",
+    "season": "",
     "loadIndex": "",
     "speedIndex": "",
     "price": 2090,
@@ -36,10 +37,10 @@
       "profile": "",
       "diameter": "20"
     },
-    "season": "Всесезонные",
+    "season": "",
     "loadIndex": "",
     "speedIndex": "",
-    "price": 2090,
+    "price": 1850,
     "images": "img/tires/agro/ATF/F2.jpg"
   },
   {
@@ -50,10 +51,40 @@
       "profile": "",
       "diameter": "20"
     },
-    "season": "Всесезонные",
+    "season": "",
     "loadIndex": "",
     "speedIndex": "",
     "price": 2950,
     "images": "img/tires/agro/Satoya/GripKing.jpg"
+  },
+
+  {
+    "brand": "ATF",
+    "model": "12PR R1 TT",
+    "size": {
+      "width": "15.5",
+      "profile": "",
+      "diameter": "38"
+    },
+    "season": "",
+    "loadIndex": "",
+    "speedIndex": "",
+    "price": 6900,
+    "images": "img/tires/agro/ATF/15_5-38F1.jpg"
+  },
+
+  {
+    "brand": "Petlas",
+    "model": "TA-60 12PR",
+    "size": {
+      "width": "15.5",
+      "profile": "",
+      "diameter": "38"
+    },
+    "season": "",
+    "loadIndex": "",
+    "speedIndex": "",
+    "price": 7090,
+    "images": "img/tires/agro/ATF/15_5-38F1.jpg"
   }
 ]

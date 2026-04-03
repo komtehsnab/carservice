@@ -55,9 +55,11 @@ function renderTires(jsonPath, containerId) {
         value ? `<li class="list-group-item">${label}: ${value}</li>` : "";
 
       container.innerHTML = tires.map(tire => {
-        const size = tire.size
-          ? `${tire.size.width}/${tire.size.profile} R${tire.size.diameter}`
-          : "";
+        const size = tire.size?
+        `${tire.size.width}
+         ${tire.size.profile ? `/${tire.size.profile}` : ''} R
+         ${tire.size.diameter}`
+         : "";
 
         const img = tire.images ?? "img/no-image.png";
 

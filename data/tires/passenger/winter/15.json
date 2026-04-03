@@ -11,9 +11,8 @@
     "loadIndex": "92 (до 630 кг)",
     "speedIndex": "T (до 190 км/ч)",
     "price": 930,
-    "images": "img/tires/passenger/Windforce/Snowblazer.jpg"
+    "images": "img/tires/passenger/winter/Windforce/Snowblazer.jpg"
   },
-
   {
     "brand": "Petlas",
     "model": "Glacier W661",
@@ -26,9 +25,8 @@
     "loadIndex": "91 (до 615 кг)",
     "speedIndex": "T (до 190 км/ч)",
     "price": 1150,
-    "images": "img/tires/passenger/Petlas/GlacierW661.png"
+    "images": "img/tires/passenger/winter/Petlas/GlacierW661.png"
   },
-
   {
     "brand": "Petlas",
     "model": "Snowmaster 2",
@@ -41,9 +39,8 @@
     "loadIndex": "91 (до 615 кг)",
     "speedIndex": "H (до 210 км/ч)",
     "price": 1130,
-    "images": "img/tires/passenger/Petlas/Snowmaster2.png"
+    "images": "img/tires/passenger/winter/Petlas/Snowmaster2.png"
   },
-
   {
     "brand": "Hankook",
     "model": "Winter iCept RS3 W462",
@@ -56,9 +53,8 @@
     "loadIndex": "91 (до 615 кг)",
     "speedIndex": "T (до 190 км/ч)",
     "price": 1250,
-    "images": "img/tires/passenger/Hankook/WinterICeptRS3W462.jpg"
+    "images": "img/tires/passenger/winter/Hankook/WinterICeptRS3W462.jpg"
   },
-
   {
     "brand": "Laufenn",
     "model": "I Fit+ LW31",
@@ -71,9 +67,8 @@
     "loadIndex": "91 (до 615 кг)",
     "speedIndex": "T (до 190 км/ч)",
     "price": 1170,
-    "images": "img/tires/passenger/Laufenn/LW31.jpg"
+    "images": "img/tires/passenger/winter/Laufenn/LW31.jpg"
   },
-
   {
     "brand": "Rovelo",
     "model": "RWT-768",
@@ -86,24 +81,22 @@
     "loadIndex": "91 (до 615 кг)",
     "speedIndex": "T (до 190 км/ч)",
     "price": 1020,
-    "images": "img/tires/passenger/Rovelo/RWT768.png"
+    "images": "img/tires/passenger/winter/Rovelo/RWT768.png"
   },
-
   {
-  "brand": "Petlas",
-  "model": "Snowmaster 2",
-  "size": {
-    "width": 205,
-    "profile": 65,
-    "diameter": 15
+    "brand": "Petlas",
+    "model": "Snowmaster 2",
+    "size": {
+      "width": 205,
+      "profile": 65,
+      "diameter": 15
+    },
+    "season": "Зимние",
+    "loadIndex": "94 (до 670 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 1050,
+    "images": "img/tires/passenger/winter/Petlas/Snowmaster2.png"
   },
-  "season": "Зимние",
-  "loadIndex": "94 (до 670 кг)",
-  "speedIndex": "H (до 210 км/ч)",
-  "price": 1130,
-  "images": "img/tires/passenger/Petlas/Snowmaster2.png"
-},
-
   {
     "brand": "Windforce",
     "model": "Snowblazer",
@@ -115,10 +108,9 @@
     "season": "Зимние",
     "loadIndex": "94 (до 670 кг)",
     "speedIndex": "H (до 210 км/ч)",
-    "price": 930,
-    "images": "img/tires/passenger/Windforce/Snowblazer.jpg"
+    "price": 990,
+    "images": "img/tires/passenger/winter/Windforce/Snowblazer.jpg"
   },
-
   {
     "brand": "Sailun",
     "model": "Ice Blazer Arctic",
@@ -130,7 +122,7 @@
     "season": "Зимние",
     "loadIndex": "94 (до 670 кг)",
     "speedIndex": "H (до 210 км/ч)",
-    "price": 930,
-    "images": "img/tires/passenger/Sailun/IceBlazerArctic.webp"
+    "price": 1190,
+    "images": "img/tires/passenger/winter/Sailun/IceBlazerArctic.webp"
   }
 ]

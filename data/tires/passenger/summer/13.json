@@ -11,7 +11,22 @@
     "loadIndex": "82 (до 475 кг)",
     "speedIndex": "T (до 190 км/ч)",
     "price": 700,
-    "images": "img/tires/passenger/WindForce/CatchforsHP.jpg"
+    "images": "img/tires/passenger/summer/WindForce/CatchforsHP.jpg"
+  },
+
+  {
+    "brand": "WindForce",
+    "model": "Advanfors H/P",
+    "size": {
+      "width": 175,
+      "profile": 70,
+      "diameter": 13
+    },
+    "season": "Летние",
+    "loadIndex": "82 (до 475 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 720,
+    "images": "img/tires/passenger/summer/WindForce/advanfors-h-p-500@2x.webp"
   },
 
   {
@@ -26,22 +41,7 @@
     "loadIndex": "82 (до 475 кг)",
     "speedIndex": "T (до 190 км/ч)",
     "price": 670,
-    "images": "img/tires/passenger/Sunwide/Rolit6.jpg"
-  },
-
-  {
-    "brand": "Petlas",
-    "model": "Elegant PT311",
-    "size": {
-      "width": 175,
-      "profile": 70,
-      "diameter": 13
-    },
-    "season": "Летние",
-    "loadIndex": "82 (до 475 кг)",
-    "speedIndex": "T (до 190 км/ч)",
-    "price": 730,
-    "images": "img/tires/passenger/Petlas/ElegantPT311.png"
+    "images": "img/tires/passenger/summer/Sunwide/Rolit6.jpg"
   },
 
   {
@@ -55,7 +55,7 @@
     "season": "Летние",
     "loadIndex": "82 (до 475 кг)",
     "speedIndex": "T (до 190 км/ч)",
-    "price": 790,
-    "images": "img/tires/passenger/Tracmax/XPriviloTX2.webp"
+    "price": 680,
+    "images": "img/tires/passenger/summer/Tracmax/XPriviloTX2.webp"
   }
 ]

@@ -11,7 +11,7 @@
     "loadIndex": "91 (до 615 кг)",
     "speedIndex": "H (до 210 км/ч)",
     "price": 1090,
-    "images": "img/tires/passenger/Petlas/Snowmaster2.png"
+    "images": "img/tires/passenger/winter/Petlas/Snowmaster2.png"
   },
 
   {
@@ -26,7 +26,7 @@
     "loadIndex": "94 (до 670 кг)",
     "speedIndex": "H (до 210 км/ч)",
     "price": 990,
-    "images": "img/tires/passenger/Windforce/Snowblazer.jpg"
+    "images": "img/tires/passenger/winter/Windforce/Snowblazer.jpg"
   },
 
   {
@@ -41,7 +41,7 @@
     "loadIndex": "91 (до 615 кг)",
     "speedIndex": "H (до 210 км/ч)",
     "price": 1070,
-    "images": "img/tires/passenger/Sailun/IceBlazerAlpine2.jpg"
+    "images": "img/tires/passenger/winter/Sailun/IceBlazerAlpine2.jpg"
   },
 
   {
@@ -56,7 +56,7 @@
     "loadIndex": "91 (до 615 кг)",
     "speedIndex": "H (до 210 км/ч)",
     "price": 1150,
-    "images": "img/tires/passenger/iLink/IL868Winter.jpg"
+    "images": "img/tires/passenger/winter/iLink/IL868Winter.jpg"
   },
 
   {
@@ -70,8 +70,8 @@
     "season": "Зимние",
     "loadIndex": "92 (до 630 кг)",
     "speedIndex": "H (до 210 км/ч)",
-    "price": 990,
-    "images": "img/tires/passenger/Windforce/Snowblazer.jpg"
+    "price": 1050,
+    "images": "img/tires/passenger/winter/Windforce/Snowblazer.jpg"
   },
 
   {
@@ -86,7 +86,7 @@
     "loadIndex": "96 (до 710 кг)",
     "speedIndex": "H (до 210 км/ч)",
     "price": 1230,
-    "images": "img/tires/passenger/Petlas/Snowmaster2.png"
+    "images": "img/tires/passenger/winter/Petlas/Snowmaster2.png"
   },
 
   {
@@ -101,7 +101,7 @@
     "loadIndex": "92 (до 630 кг)",
     "speedIndex": "T (до 190 км/ч)",
     "price": 1180,
-    "images": "img/tires/passenger/Rovelo/RWS677.png"
+    "images": "img/tires/passenger/winter/Rovelo/RWS677.png"
   },
 
   {
@@ -116,7 +116,7 @@
     "loadIndex": "99 (до 775 кг)",
     "speedIndex": "H (до 210 км/ч)",
     "price": 1290,
-    "images": "img/tires/passenger/Petlas/Snowmaster2Sport.png"
+    "images": "img/tires/passenger/winter/Petlas/Snowmaster2Sport.png"
   },
 
   {
@@ -131,7 +131,7 @@
     "loadIndex": "99 (до 775 кг)",
     "speedIndex": "H (до 210 км/ч)",
     "price": 1780,
-    "images": "img/tires/passenger/Hankook/WinterICeptEvo2W320.jpg"
+    "images": "img/tires/passenger/winter/Hankook/WinterICeptEvo2W320.jpg"
   },
 
   {
@@ -146,7 +146,7 @@
   "loadIndex": "95 (до 690 кг)",
   "speedIndex": "T (до 190 км/ч)",
   "price": 1230,
-  "images": "img/tires/passenger/Rovelo/RWS677.png"
+  "images": "img/tires/passenger/winter/Rovelo/RWS677.png"
 },
 
   {
@@ -161,7 +161,7 @@
     "loadIndex": "95 (до 690 кг)",
     "speedIndex": "H (до 210 км/ч)",
     "price": 1190,
-    "images": "img/tires/passenger/Sailun/IceBlazerArctic.webp"
+    "images": "img/tires/passenger/winter/Sunwide/Snowide.jpeg/"
   },
 
   {
@@ -175,8 +175,8 @@
     "season": "Зимние",
     "loadIndex": "102 (до 850 кг)",
     "speedIndex": "H (до 210 км/ч)",
-    "price": 1100,
-    "images": "img/tires/passenger/Windforce/Snowblazer.jpg"
+    "price": 1140,
+    "images": "img/tires/passenger/winter/Windforce/Snowblazer.jpg"
   },
 
   {
@@ -191,7 +191,7 @@
     "loadIndex": "98 (до 750 кг)",
     "speedIndex": "H (до 210 км/ч)",
     "price": 1250,
-    "images": "img/tires/passenger/Sailun/IceBlazerArctic.webp"
+    "images": "img/tires/passenger/winter/Sunwide/SForceII.webp"
   }
 ,
 
@@ -207,6 +207,6 @@
     "loadIndex": "102 (до 850 кг)",
     "speedIndex": "H (до 210 км/ч)",
     "price": 1490,
-    "images": "img/tires/passenger/Sailun/IceBlazerAlpine2.jpg"
+    "images": "img/tires/passenger/winter/Sailun/IceBlazerArcticSUV.webp"
   }
 ]

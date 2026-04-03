@@ -10,8 +10,8 @@
     "season": "Всесезонные",
     "loadIndex": "82 (до 475 кг)",
     "speedIndex": "T (до 190 км/ч)",
-    "price": 730,
-    "images": "img/tires/passenger/Rovelo/4s.webp"
+    "price": 830,
+    "images": "img/tires/passenger/allSeasons/Rovelo/4s.webp"
   },
 
   {
@@ -26,7 +26,7 @@
     "loadIndex": "86 (до 530 кг)",
     "speedIndex": "H (до 210 км/ч)",
     "price": 780,
-    "images": "img/tires/passenger/Windforce/CatchforsAS.webp"
+    "images": "img/tires/passenger/allSeasons/Windforce/CatchforsAS.webp"
   },
 
   {
@@ -41,6 +41,6 @@
     "loadIndex": "86 (до 530 кг)",
     "speedIndex": "H (до 210 км/ч)",
     "price": 780,
-    "images": "img/tires/passenger/Windforce/CatchforsASII.png"
+    "images": "img/tires/passenger/allSeasons/Windforce/CatchforsASII.png"
   }
 ]
