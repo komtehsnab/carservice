@@ -19,6 +19,21 @@
     "model": "Elegant PT311",
     "size": {
       "width": 175,
+      "profile": 65,
+      "diameter": 14
+    },
+    "season": "Летние",
+    "loadIndex": "82 (до 475 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 860,
+    "images": "img/tires/passenger/summer/Petlas/ElegantPT311.png"
+  },
+
+  {
+    "brand": "Petlas",
+    "model": "Elegant PT311",
+    "size": {
+      "width": 175,
       "profile": 70,
       "diameter": 14
     },
@@ -102,6 +117,21 @@
     "speedIndex": "T (до 190 км/ч)",
     "price": 730,
     "images": "img/tires/passenger/summer/Tunga/Zodiak2.webp"
+  },
+
+  {
+    "brand": "Windforce",
+    "model": "Advanfors H/P ",
+    "size": {
+      "width": 185,
+      "profile": 70,
+      "diameter": 14
+    },
+    "season": "Летние",
+    "loadIndex": "88 (до 560 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 840,
+    "images": "img/tires/passenger/summer/Windforce/advanfors-h-p-500@2x.webp"
   },
 
   {

@@ -44,6 +44,21 @@
   },
 
   {
+    "brand": "Sailun",
+    "model": "Commercio Ice",
+    "size": {
+      "width": 225,
+      "profile": 70,
+      "diameter": "15C"
+    },
+    "season": "Зимние",
+    "loadIndex": "112 (до 1120 кг)",
+    "speedIndex": "R (до 170 км/ч)",
+    "price": 1490,
+    "images": "img/tires/lightTruck/Sailun/CommercioIce.webp"
+  },
+
+  {
     "brand": "Petlas",
     "model": "Full Grip PT925",
     "size": {

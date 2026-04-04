@@ -1,6 +1,7 @@
 [
   {
     "brand": "EXIDE",
+    "model": "",
     "ah": 13,
     "cca": 200,
     "size": "150/90/145",
@@ -10,6 +11,17 @@
   },
   {
     "brand": "VARTA",
+    "model": "A14",
+    "ah": 40,
+    "cca": 330,
+    "size": "187/127/227",
+    "polarity": "Обратная",
+    "type": "WET Blue Dynamic",
+    "price": "1190"
+  },
+  {
+    "brand": "VARTA",
+    "model": "",
     "ah": 40,
     "cca": 330,
     "size": "187/127/227",
@@ -19,15 +31,7 @@
   },
   {
     "brand": "VARTA",
-    "ah": 40,
-    "cca": 330,
-    "size": "187/127/227",
-    "polarity": "Обратная",
-    "type": "WET Blue Dynamic",
-    "price": "1130"
-  },
-  {
-    "brand": "VARTA",
+    "model": "",
     "ah": 44,
     "cca": 440,
     "size": "207/175/175",
@@ -37,6 +41,7 @@
   },
   {
     "brand": "BOSCH",
+    "model": "",
     "ah": 45,
     "cca": 330,
     "size": "238/129/227",
@@ -46,6 +51,7 @@
   },
   {
     "brand": "VARTA",
+    "model": "",
     "ah": 45,
     "cca": 330,
     "size": "238/129/227",
@@ -55,16 +61,17 @@
   },
   {
     "brand": "VARTA",
+    "model": "",
     "ah": 45,
     "cca": 330,
     "size": "238/129/227",
     "polarity": "Обратная",
     "type": "WET Blue Dynamic",
-
     "price": "1340"
   },
   {
     "brand": "VARTA",
+    "model": "",
     "ah": 45,
     "cca": 330,
     "size": "238/129/227",
@@ -74,6 +81,7 @@
   },
   {
     "brand": "VARTA",
+    "model": "",
     "ah": 52,
     "cca": 520,
     "size": "207/175/175",
@@ -83,6 +91,7 @@
   },
   {
     "brand": "VARTA",
+    "model": "",
     "ah": 54,
     "cca": 530,
     "size": "207/175/190",
@@ -92,6 +101,7 @@
   },
   {
     "brand": "MUTLU",
+    "model": "",
     "ah": 60,
     "cca": 540,
     "size": "242/175/175",
@@ -101,6 +111,7 @@
   },
   {
     "brand": "BOSCH",
+    "model": "",
     "ah": 60,
     "cca": 540,
     "size": "242/175/175",
@@ -110,6 +121,7 @@
   },
   {
     "brand": "BOSCH",
+    "model": "",
     "ah": 60,
     "cca": 540,
     "size": "242/175/190",
@@ -119,6 +131,7 @@
   },
   {
     "brand": "VARTA",
+    "model": "",
     "ah": 60,
     "cca": 540,
     "size": "242/175/175",
@@ -128,6 +141,7 @@
   },
   {
     "brand": "VARTA",
+    "model": "",
     "ah": 60,
     "cca": 540,
     "size": "242/175/190",
@@ -137,6 +151,7 @@
   },
   {
     "brand": "BOSCH",
+    "model": "",
     "ah": 61,
     "cca": 600,
     "size": "242/175/175",
@@ -146,16 +161,17 @@
   },
   {
     "brand": "VARTA",
+    "model": "",
     "ah": 61,
     "cca": 600,
     "size": "242/175/175",
     "polarity": "Обратная",
     "type": "WET Silver Dynamic",
-    "brand": "VARTA",
     "price": "1840"
   },
   {
     "brand": "BOSCH",
+    "model": "",
     "ah": 63,
     "cca": 610,
     "size": "242/175/190",
@@ -165,6 +181,7 @@
   },
   {
     "brand": "VARTA",
+    "model": "",
     "ah": 63,
     "cca": 610,
     "size": "242/175/190",
@@ -174,6 +191,7 @@
   },
   {
     "brand": "BOSCH",
+    "model": "",
     "ah": 70,
     "cca": 630,
     "size": "261/175/220",
@@ -183,6 +201,7 @@
   },
   {
     "brand": "VARTA",
+    "model": "",
     "ah": 70,
     "cca": 630,
     "size": "261/175/220",
@@ -192,6 +211,7 @@
   },
   {
     "brand": "BOSCH",
+    "model": "",
     "ah": 70,
     "cca": 760,
     "size": "278/175/190",
@@ -201,6 +221,7 @@
   },
   {
     "brand": "VARTA",
+    "model": "",
     "ah": 72,
     "cca": 680,
     "size": "278/175/175",
@@ -210,6 +231,7 @@
   },
   {
     "brand": "BOSCH",
+    "model": "",
     "ah": 74,
     "cca": 680,
     "size": "278/175/190",
@@ -219,6 +241,7 @@
   },
   {
     "brand": "VARTA",
+    "model": "",
     "ah": 74,
     "cca": 680,
     "size": "278/175/190",
@@ -228,6 +251,7 @@
   },
   {
     "brand": "VARTA",
+    "model": "",
     "ah": 74,
     "cca": 750,
     "size": "278/175/175",
@@ -237,6 +261,7 @@
   },
   {
     "brand": "VARTA",
+    "model": "",
     "ah": 77,
     "cca": 780,
     "size": "278/175/190",
@@ -246,6 +271,7 @@
   },
   {
     "brand": "VARTA",
+    "model": "",
     "ah": 80,
     "cca": 740,
     "size": "315/175/175",
@@ -255,6 +281,7 @@
   },
   {
     "brand": "VARTA",
+    "model": "",
     "ah": 80,
     "cca": 740,
     "size": "315/175/190",
@@ -264,6 +291,7 @@
   },
   {
     "brand": "BOSCH",
+    "model": "",
     "ah": 80,
     "cca": 800,
     "size": "315/175/190",
@@ -273,6 +301,7 @@
   },
   {
     "brand": "VARTA",
+    "model": "",
     "ah": 85,
     "cca": 800,
     "size": "315/175/175",
@@ -282,6 +311,7 @@
   },
   {
     "brand": "VARTA",
+    "model": "",
     "ah": 95,
     "cca": 830,
     "size": "306/173/225",
@@ -290,27 +320,29 @@
     "price": "2490"
   },
   {
+    "brand": "VARTA",
+    "model": "",
     "code": "G7",
     "ah": 95,
     "cca": 830,
     "size": "306/173/225",
     "polarity": "Обратная",
     "type": "Blue Dynamic",
-    "brand": "VARTA",
     "price": "2550"
   },
   {
     "brand": "VARTA",
+    "model": "",
     "ah": 95,
     "cca": 830,
     "size": "306/173/225",
     "polarity": "Прямая",
     "type": "Blue Dynamic",
-    "brand": "VARTA",
     "price": "2550"
   },
   {
     "brand": "VARTA",
+    "model": "",
     "ah": 100,
     "cca": 830,
     "size": "353/175/190",
@@ -320,6 +352,7 @@
   },
   {
     "brand": "VARTA",
+    "model": "",
     "ah": 100,
     "cca": 830,
     "size": "353/175/190",
@@ -329,6 +362,7 @@
   },
   {
     "brand": "VARTA",
+    "model": "",
     "ah": 95,
     "cca": 850,
     "size": "353/175/190",

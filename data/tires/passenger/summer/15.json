@@ -1,5 +1,19 @@
 [
   {
+    "brand": "Petlas",
+    "model": "Imperium PT515",
+    "size": {
+      "width": 185,
+      "profile": 65,
+      "diameter": 15
+    },
+    "season": "Летние",
+    "loadIndex": "88 (до 560 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 890,
+    "images": "img/tires/passenger/summer/Petlas/ImperiumPT515.jpg"
+  },
+  {
     "brand": "Sailun",
     "model": "Atrezzo Elite",
     "size": {
@@ -13,7 +27,6 @@
     "price": 950,
     "images": "img/tires/passenger/summer/Sailun/AtrezzoElite.jpg"
   },
-
   {
     "brand": "Windforce",
     "model": "Catchfors H/P",
@@ -28,7 +41,6 @@
     "price": 850,
     "images": "img/tires/passenger/summer/Windforce/CatchforsHP.jpg"
   },
-
   {
     "brand": "Petlas",
     "model": "Imperium PT515",
@@ -43,7 +55,6 @@
     "price": 1050,
     "images": "img/tires/passenger/summer/Petlas/ImperiumPT515.jpg"
   },
-
   {
     "brand": "Sailun",
     "model": "Atrezzo Elite",
@@ -58,7 +69,6 @@
     "price": 940,
     "images": "img/tires/passenger/summer/Sailun/AtrezzoElite.jpg"
   },
-
   {
     "brand": "Windforce",
     "model": "Catchfors H/P",
@@ -73,19 +83,60 @@
     "price": 990,
     "images": "img/tires/passenger/summer/Windforce/CatchforsHP.jpg"
   },
-
   {
-  "brand": "Sunwide",
-  "model": "Rolit 6",
-  "size": {
-    "width": 205,
-    "profile": 70,
-    "diameter": 15
+    "brand": "Windforce",
+    "model": "Advanfors H/P",
+    "size": {
+      "width": 205,
+      "profile": 65,
+      "diameter": 15
+    },
+    "season": "Летние",
+    "loadIndex": "94 (до 670 кг)",
+    "speedIndex": "V (до 240 км/ч)",
+    "price": 1030,
+    "images": "img/tires/passenger/summer/Windforce/advanfors-h-p-500@2x.webp"
   },
-  "season": "Летние",
-  "loadIndex": "96 (до 710 кг)",
-  "speedIndex": "H (до 210 км/ч)",
-  "price": 1090,
-  "images": "img/tires/passenger/summer/Sunwide/Rolit6.jpg"
-}
+  {
+    "brand": "Sailun",
+    "model": "Atrezzo Elite",
+    "size": {
+      "width": 205,
+      "profile": 65,
+      "diameter": 15
+    },
+    "season": "Летние",
+    "loadIndex": "95 (до 690 кг)",
+    "speedIndex": "V (до 240 км/ч)",
+    "price": 1040,
+    "images": "img/tires/passenger/summer/Sailun/AtrezzoElite.jpg"
+  },
+  {
+    "brand": "Sunwide",
+    "model": "Rolit 6",
+    "size": {
+      "width": 205,
+      "profile": 70,
+      "diameter": 15
+    },
+    "season": "Летние",
+    "loadIndex": "96 (до 710 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 1090,
+    "images": "img/tires/passenger/summer/Sunwide/Rolit6.jpg"
+  },
+  {
+    "brand": "Petlas",
+    "model": "Prime Comfort",
+    "size": {
+      "width": 205,
+      "profile": 65,
+      "diameter": 15
+    },
+    "season": "Летние",
+    "loadIndex": "94 (до 670 кг)",
+    "speedIndex": "V (до 240 км/ч)",
+    "price": 1100,
+    "images": "img/tires/passenger/summer/Petlas/primeComfort.png"
+  }
 ]

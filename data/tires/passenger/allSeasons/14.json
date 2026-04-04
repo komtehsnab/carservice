@@ -42,5 +42,20 @@
     "speedIndex": "H (до 210 км/ч)",
     "price": 780,
     "images": "img/tires/passenger/allSeasons/Windforce/CatchforsASII.png"
+  },
+
+  {
+    "brand": "Rovelo",
+    "model": "All Weather R4S",
+    "size": {
+      "width": 185,
+      "profile": 65,
+      "diameter": 14
+    },
+    "season": "Всесезонные",
+    "loadIndex": "86 (до 530 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 930,
+    "images": "img/tires/passenger/allSeasons/Rovelo/4s.webp"
   }
 ]

@@ -1,0 +1,16 @@
+[
+  {
+    "brand": "Kapsen",
+    "model": "Comformax 4S A4",
+    "size": {
+      "width": 175,
+      "profile": 70,
+      "diameter": 13
+    },
+    "season": "Всесезонные",
+    "loadIndex": "82 (до 475 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 700,
+    "images": "img/tires/passenger/allSeasons/Kapsen/a4.webp"
+  }
+]

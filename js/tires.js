@@ -102,6 +102,7 @@ renderTires("data/tires/passenger/summer/15.json", "15summer");
 renderTires("data/tires/passenger/summer/16.json", "16summer");
 renderTires("data/tires/passenger/summer/17.json", "17summer");
 
+renderTires("data/tires/passenger/allSeasons/13.json", "13_4s");
 renderTires("data/tires/passenger/allSeasons/14.json", "14_4s");
 renderTires("data/tires/passenger/allSeasons/15.json", "15_4s");
 renderTires("data/tires/passenger/allSeasons/16.json", "16_4s");

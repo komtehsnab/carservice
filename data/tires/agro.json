@@ -1,5 +1,20 @@
 [
   {
+    "brand": "ATF",
+    "model": "6PR R1 TT",
+    "size": {
+      "width": "6.00",
+      "profile": "",
+      "diameter": "12"
+    },
+    "season": "",
+    "loadIndex": "",
+    "speedIndex": "",
+    "price": 1090,
+    "images": "img/tires/agro/Petlas/NT30.jpg"
+  },
+
+  {
     "brand": "Petlas",
     "model": "NT-30",
     "size": {

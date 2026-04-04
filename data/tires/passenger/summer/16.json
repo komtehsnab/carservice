@@ -75,6 +75,21 @@
   },
 
   {
+    "brand": "Petlas",
+    "model": "Imperium PT525",
+    "size": {
+      "width": 205,
+      "profile": 55,
+      "diameter": 16
+    },
+    "season": "Летние",
+    "loadIndex": "91 (до 615 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 1190,
+    "images": "img/tires/passenger/summer/Petlas/ProgreenPT525.png"
+  },
+
+  {
     "brand": "Windforce",
     "model": "Catchfors H/P",
     "size": {
@@ -99,9 +114,24 @@
     },
     "season": "Летние",
     "loadIndex": "94 (до 670 кг",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 1170,
+    "images": "img/tires/passenger/summer/Petlas/ImperiumPT515.png"
+  },
+
+  {
+    "brand": "Uniroyal",
+    "model": "Rainsport 5",
+    "size": {
+      "width": 205,
+      "profile": 55,
+      "diameter": 16
+    },
+    "season": "Летние",
+    "loadIndex": "91 (до 615 кг)",
     "speedIndex": "T (до 190 км/ч)",
-    "price": 1190,
-    "images": "img/tires/passenger/summer/Petlas/ProgreenPT525.png"
+    "price": 1390,
+    "images": "img/tires/passenger/summer/Uniroyal/RainSport5.jpg"
   },
 
   {
@@ -132,6 +162,21 @@
     "speedIndex": "W (до 270 км/ч)",
     "price": 1090,
     "images": "img/tires/passenger/summer/Tracmax/XPriviloTX1.webp"
+  },
+
+  {
+    "brand": "Petlas",
+    "model": "Imperium PT515",
+    "size": {
+      "width": 215,
+      "profile": 55,
+      "diameter": 16
+    },
+    "season": "Летние",
+    "loadIndex": "93 (до 650 кг)",
+    "speedIndex": "V (до 240 км/ч)",
+    "price": 1230,
+    "images": "img/tires/passenger/summer/Petlas/ImperiumPT515.png"
   },
 
   {
@@ -178,6 +223,37 @@
     "price": 1230,
     "images": "img/tires/passenger/summer/Tracmax/XPriviloS130.webp"
   },
+
+  {
+    "brand": "Petlas",
+    "model": "Progreen PT525",
+    "size": {
+      "width": 215,
+      "profile": 60,
+      "diameter": 16
+    },
+    "season": "Летние",
+    "loadIndex": "95 (до 690 кг)",
+    "speedIndex": "V (до 240 км/ч)",
+    "price": 1290,
+    "images": "img/tires/passenger/summer/Petlas/ProgreenPT525.png"
+  },
+
+  {
+    "brand": "Laufenn",
+    "model": "G-Fit EQ LK41",
+    "size": {
+      "width": 215,
+      "profile": 65,
+      "diameter": 16
+    },
+    "season": "Летние",
+    "loadIndex": "98 (до 750 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 1530,
+    "images": "img/tires/passenger/summer/Laufenn/LK41.jpg"
+  },
+
 
   {
     "brand": "Sunwide",
