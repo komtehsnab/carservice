@@ -9,6 +9,7 @@ fetch('data/battery.json')
         <tr>
           <th scope="row">${i + 1}</th>
           <td>${b.brand}</td>
+          <td>${b.model}</td>
           <td>${b.ah}</td>
           <td>${b.cca}</td>
           <td>${b.size}</td>

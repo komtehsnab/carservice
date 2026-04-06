@@ -16,202 +16,302 @@
     "cca": 330,
     "size": "187/127/227",
     "polarity": "Обратная",
-    "type": "WET Blue Dynamic",
+    "type": "WET",
     "price": "1190"
   },
   {
     "brand": "VARTA",
-    "model": "",
+    "model": "А15",
     "ah": 40,
     "cca": 330,
     "size": "187/127/227",
-    "polarity": "Обратная",
-    "type": "WET Blue Dynamic",
-    "price": "1130"
+    "polarity": "Прямая",
+    "type": "WET",
+    "price": "1190"
   },
   {
     "brand": "VARTA",
-    "model": "",
+    "model": "B18",
     "ah": 44,
     "cca": 440,
     "size": "207/175/175",
     "polarity": "Обратная",
-    "type": "WET Blue Dynamic",
-    "price": "1290"
+    "type": "WET",
+    "price": "1340"
+  },
+  {
+    "brand": "LUCAS",
+    "model": "",
+    "ah": 45,
+    "cca": 360,
+    "size": "207/175/175",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "950"
   },
   {
     "brand": "BOSCH",
-    "model": "",
+    "model": "S4021",
     "ah": 45,
     "cca": 330,
     "size": "238/129/227",
     "polarity": "Обратная",
     "type": "WET",
-    "price": "1290"
-  },
-  {
-    "brand": "VARTA",
-    "model": "",
-    "ah": 45,
-    "cca": 330,
-    "size": "238/129/227",
-    "polarity": "Обратная",
-    "type": "Blue Dynamic",
     "price": "1340"
   },
   {
     "brand": "VARTA",
-    "model": "",
+    "model": "B31",
     "ah": 45,
     "cca": 330,
     "size": "238/129/227",
     "polarity": "Обратная",
-    "type": "WET Blue Dynamic",
-    "price": "1340"
+    "type": "WET",
+    "price": "1390"
   },
   {
     "brand": "VARTA",
-    "model": "",
+    "model": "B32",
+    "ah": 45,
+    "cca": 330,
+    "size": "238/129/227",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "1390"
+  },
+  {
+    "brand": "VARTA",
+    "model": "B33",
     "ah": 45,
     "cca": 330,
     "size": "238/129/227",
     "polarity": "Прямая",
-    "type": "WET Blue Dynamic",
-    "price": "1340"
+    "type": "WET",
+    "price": "1390"
   },
   {
     "brand": "VARTA",
-    "model": "",
+    "model": "N50",
+    "ah": 50,
+    "cca": 540,
+    "size": "207/175/190",
+    "polarity": "Обратная",
+    "type": "EFB",
+    "price": "2090"
+  },
+  {
+    "brand": "VARTA",
+    "model": "C6",
     "ah": 52,
     "cca": 520,
     "size": "207/175/175",
     "polarity": "Обратная",
-    "type": "WET Silver Dynamic",
-    "price": "1630"
+    "type": "WET",
+    "price": "1720"
   },
   {
     "brand": "VARTA",
-    "model": "",
+    "model": "C30",
     "ah": 54,
     "cca": 530,
     "size": "207/175/190",
     "polarity": "Обратная",
     "type": "WET Silver Dynamic",
-    "price": "1650"
+    "price": "1740"
+  },
+  {
+    "brand": "LUCAS",
+    "model": "низкий",
+    "ah": 60,
+    "cca": 540,
+    "size": "242/175/175",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "1210"
+  },
+  {
+    "brand": "LUCAS",
+    "model": "",
+    "ah": 60,
+    "cca": 540,
+    "size": "242/175/190",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "1230"
+  },
+  {
+    "brand": "TENAX",
+    "model": "TE-T5-1",
+    "ah": 60,
+    "cca": 540,
+    "size": "242/175/175",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "1250"
+  },
+  {
+    "brand": "TENAX",
+    "model": "TE-H5-1",
+    "ah": 60,
+    "cca": 540,
+    "size": "242/175/190",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "1270"
+  },
+  {
+    "brand": "MUTLU",
+    "model": "низкий",
+    "ah": 60,
+    "cca": 540,
+    "size": "242/175/175",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "1320"
   },
   {
     "brand": "MUTLU",
     "model": "",
     "ah": 60,
     "cca": 540,
-    "size": "242/175/175",
+    "size": "242/175/190",
     "polarity": "Обратная",
     "type": "WET",
-    "price": "1570"
+    "price": "1340"
   },
   {
     "brand": "BOSCH",
-    "model": "",
+    "model": "S4004",
     "ah": 60,
     "cca": 540,
     "size": "242/175/175",
     "polarity": "Обратная",
     "type": "WET",
-    "price": "1570"
+    "price": "1630"
   },
   {
     "brand": "BOSCH",
-    "model": "",
+    "model": "S4005",
     "ah": 60,
     "cca": 540,
     "size": "242/175/190",
     "polarity": "Обратная",
     "type": "WET",
-    "price": "1600"
+    "price": "1650"
   },
   {
     "brand": "VARTA",
-    "model": "",
+    "model": "D59",
     "ah": 60,
     "cca": 540,
     "size": "242/175/175",
     "polarity": "Обратная",
-    "type": "WET Blue Dynamic",
-    "price": "1590"
+    "type": "WET",
+    "price": "1670"
   },
   {
     "brand": "VARTA",
-    "model": "",
+    "model": "D24",
     "ah": 60,
     "cca": 540,
     "size": "242/175/190",
     "polarity": "Обратная",
-    "type": "WET Blue Dynamic",
-    "price": "1620"
+    "type": "WET",
+    "price": "1690"
+  },
+  {
+    "brand": "MUTLU",
+    "model": "",
+    "ah": 60,
+    "cca": 680,
+    "size": "242/175/190",
+    "polarity": "Обратная",
+    "type": "AGM",
+    "price": "2790"
   },
   {
     "brand": "BOSCH",
-    "model": "",
+    "model": "S5A05",
+    "ah": 60,
+    "cca": 680,
+    "size": "242/175/190",
+    "polarity": "Обратная",
+    "type": "AGM",
+    "price": "2890"
+  },
+  {
+    "brand": "BOSCH",
+    "model": "S5004",
     "ah": 61,
     "cca": 600,
     "size": "242/175/175",
     "polarity": "Обратная",
     "type": "WET",
-    "price": "1830"
-  },
-  {
-    "brand": "VARTA",
-    "model": "",
-    "ah": 61,
-    "cca": 600,
-    "size": "242/175/175",
-    "polarity": "Обратная",
-    "type": "WET Silver Dynamic",
-    "price": "1840"
-  },
-  {
-    "brand": "BOSCH",
-    "model": "",
-    "ah": 63,
-    "cca": 610,
-    "size": "242/175/190",
-    "polarity": "Обратная",
-    "type": "WET",
-    "price": "1850"
-  },
-  {
-    "brand": "VARTA",
-    "model": "",
-    "ah": 63,
-    "cca": 610,
-    "size": "242/175/190",
-    "polarity": "Обратная",
-    "type": "WET Silver Dynamic",
     "price": "1870"
   },
   {
-    "brand": "BOSCH",
-    "model": "",
-    "ah": 70,
-    "cca": 630,
-    "size": "261/175/220",
+    "brand": "VARTA",
+    "model": "D21",
+    "ah": 61,
+    "cca": 600,
+    "size": "242/175/175",
     "polarity": "Обратная",
     "type": "WET",
     "price": "1890"
   },
   {
-    "brand": "VARTA",
+    "brand": "MUTLU",
     "model": "",
+    "ah": 63,
+    "cca": 680,
+    "size": "242/175/190",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "1460"
+  },
+  {
+    "brand": "BOSCH",
+    "model": "S5005",
+    "ah": 63,
+    "cca": 610,
+    "size": "242/175/190",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "1880"
+  },
+  {
+    "brand": "VARTA",
+    "model": "D15",
+    "ah": 63,
+    "cca": 610,
+    "size": "242/175/190",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "1920"
+  },
+  {
+    "brand": "VARTA",
+    "model": "E23",
     "ah": 70,
     "cca": 630,
     "size": "261/175/220",
     "polarity": "Обратная",
-    "type": "WET Blue Dynamic",
-    "price": "1890"
+    "type": "WET",
+    "price": "1940"
+  },
+  {
+    "brand": "MUTLU",
+    "model": "",
+    "ah": 70,
+    "cca": 760,
+    "size": "278/175/190",
+    "polarity": "Обратная",
+    "type": "AGM",
+    "price": "3090"
   },
   {
     "brand": "BOSCH",
-    "model": "",
+    "model": "S5A08",
     "ah": 70,
     "cca": 760,
     "size": "278/175/190",
@@ -220,18 +320,58 @@
     "price": "3190"
   },
   {
-    "brand": "VARTA",
+    "brand": "LUCAS",
     "model": "",
+    "ah": 72,
+    "cca": 720,
+    "size": "278/175/175",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "1470"
+  },
+  {
+    "brand": "LUCAS",
+    "model": "",
+    "ah": 72,
+    "cca": 720,
+    "size": "278/175/190",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "1490"
+  },
+  {
+    "brand": "TENAX",
+    "model": "TE-T6-1",
     "ah": 72,
     "cca": 680,
     "size": "278/175/175",
     "polarity": "Обратная",
-    "type": "WET Blue Dynamic",
-    "price": "1890"
+    "type": "WET",
+    "price": "1470"
+  },
+  {
+    "brand": "TENAX",
+    "model": "TE-H6-1",
+    "ah": 74,
+    "cca": 680,
+    "size": "278/175/190",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "1490"
+  },
+  {
+    "brand": "VARTA",
+    "model": "E43",
+    "ah": 72,
+    "cca": 680,
+    "size": "278/175/175",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "1990"
   },
   {
     "brand": "BOSCH",
-    "model": "",
+    "model": "S4008",
     "ah": 74,
     "cca": 680,
     "size": "278/175/190",
@@ -241,133 +381,292 @@
   },
   {
     "brand": "VARTA",
-    "model": "",
+    "model": "E11",
     "ah": 74,
     "cca": 680,
     "size": "278/175/190",
     "polarity": "Обратная",
-    "type": "WET Blue Dynamic",
-    "price": "1930"
+    "type": "WET",
+    "price": "2040"
   },
   {
     "brand": "VARTA",
-    "model": "",
+    "model": "E38",
     "ah": 74,
     "cca": 750,
     "size": "278/175/175",
     "polarity": "Обратная",
-    "type": "WET Silver Dynamic",
-    "price": "2240"
+    "type": "WET",
+    "price": "2350"
   },
   {
-    "brand": "VARTA",
+    "brand": "MUTLU",
+    "model": "asia",
+    "ah": 75,
+    "cca": 640,
+    "size": "261/175/220",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "1790"
+  },
+  {
+    "brand": "MUTLU",
+    "model": "",
+    "ah": 75,
+    "cca": 720,
+    "size": "278/175/175",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "1590"
+  },
+  {
+    "brand": "MUTLU",
+    "model": "",
+    "ah": 75,
+    "cca": 720,
+    "size": "278/175/190",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "1630"
+  },
+  {
+    "brand": "ENERGIZER",
     "model": "",
     "ah": 77,
     "cca": 780,
     "size": "278/175/190",
     "polarity": "Обратная",
-    "type": "WET Silver Dynamic",
-    "price": "2270"
+    "type": "WET",
+    "price": "1970"
   },
   {
     "brand": "VARTA",
+    "model": "E44",
+    "ah": 77,
+    "cca": 780,
+    "size": "278/175/190",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "2390"
+  },
+  {
+    "brand": "MUTLU",
+    "model": "",
+    "ah": 78,
+    "cca": 780,
+    "size": "278/175/175",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "1730"
+  },
+  {
+    "brand": "TENAX",
+    "model": "TE-T7-2",
+    "ah": 80,
+    "cca": 740,
+    "size": "315/175/175",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "1870"
+  },
+  {
+    "brand": "MUTLU",
     "model": "",
     "ah": 80,
     "cca": 740,
     "size": "315/175/175",
     "polarity": "Обратная",
-    "type": "Blue Dynamic",
-    "price": "2240"
+    "type": "WET",
+    "price": "1770"
   },
   {
     "brand": "VARTA",
-    "model": "",
+    "model": "F17",
+    "ah": 80,
+    "cca": 740,
+    "size": "315/175/175",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "2370"
+  },
+  {
+    "brand": "VARTA",
+    "model": "F16",
     "ah": 80,
     "cca": 740,
     "size": "315/175/190",
     "polarity": "Обратная",
-    "type": "Blue Dynamic",
-    "price": "2270"
+    "type": "WET",
+    "price": "2390"
   },
   {
     "brand": "BOSCH",
-    "model": "",
+    "model": "S5A11",
     "ah": 80,
     "cca": 800,
     "size": "315/175/190",
     "polarity": "Обратная",
     "type": "AGM",
-    "price": "3590"
+    "price": "3690"
   },
   {
     "brand": "VARTA",
-    "model": "",
-    "ah": 85,
-    "cca": 800,
-    "size": "315/175/175",
+    "model": "G7",
+    "ah": 95,
+    "cca": 830,
+    "size": "306/173/225",
     "polarity": "Обратная",
-    "type": "Silver Dynamic",
+    "type": "WET",
+    "price": "2690"
+  },
+  {
+    "brand": "BOSCH",
+    "model": "S4028",
+    "ah": 95,
+    "cca": 830,
+    "size": "306/173/225",
+    "polarity": "Обратная",
+    "type": "WET",
     "price": "2590"
   },
   {
     "brand": "VARTA",
-    "model": "",
+    "model": "G8",
     "ah": 95,
     "cca": 830,
     "size": "306/173/225",
+    "polarity": "Прямая",
+    "type": "WET",
+    "price": "2690"
+  },
+  {
+    "brand": "MUTLU",
+    "model": "",
+    "ah": 95,
+    "cca": 900,
+    "size": "306/173/225",
+    "polarity": "Обратная",
+    "type": "AGM",
+    "price": "3790"
+  },
+  {
+    "brand": "VARTA",
+    "model": "A5",
+    "ah": 95,
+    "cca": 850,
+    "size": "306/173/225",
+    "polarity": "Обратная",
+    "type": "AGM",
+    "price": "4590"
+  },
+  {
+    "brand": "PERION",
+    "model": "",
+    "ah": 100,
+    "cca": 830,
+    "size": "353/175/190",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "1790"
+  },
+  {
+    "brand": "ELECTRIC POWER",
+    "model": "",
+    "ah": 100,
+    "cca": 830,
+    "size": "353/175/190",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "1850"
+  },
+  {
+    "brand": "TENAX",
+    "model": "",
+    "ah": 100,
+    "cca": 830,
+    "size": "353/175/190",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "1890"
+  },
+  {
+    "brand": "MUTLU",
+    "model": "",
+    "ah": 100,
+    "cca": 900,
+    "size": "353/175/190",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "2190"
+  },
+  {
+    "brand": "MUTLU",
+    "model": "",
+    "ah": 100,
+    "cca": 850,
+    "size": "306/173/225",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "2290"
+  },
+  {
+    "brand": "EXIDE",
+    "model": "",
+    "ah": 100,
+    "cca": 900,
+    "size": "353/175/190",
     "polarity": "Обратная",
     "type": "WET",
     "price": "2490"
   },
   {
     "brand": "VARTA",
-    "model": "",
-    "code": "G7",
-    "ah": 95,
+    "model": "H3",
+    "ah": 100,
     "cca": 830,
-    "size": "306/173/225",
+    "size": "353/175/190",
     "polarity": "Обратная",
-    "type": "Blue Dynamic",
-    "price": "2550"
+    "type": "WET",
+    "price": "2990"
   },
   {
-    "brand": "VARTA",
-    "model": "",
-    "ah": 95,
+    "brand": "BOSCH",
+    "model": "S5013",
+    "ah": 100,
     "cca": 830,
-    "size": "306/173/225",
+    "size": "353/175/190",
+    "polarity": "Обратная",
+    "type": "WET",
+    "price": "2930"
+  },
+  {
+    "brand": "MUTLU",
+    "model": "",
+    "ah": 135,
+    "cca": 1000,
+    "size": "513/189/223",
     "polarity": "Прямая",
-    "type": "Blue Dynamic",
-    "price": "2550"
-  },
-  {
-    "brand": "VARTA",
-    "model": "",
-    "ah": 100,
-    "cca": 830,
-    "size": "353/175/190",
-    "polarity": "Обратная",
-    "type": "Silver Dynamic",
+    "type": "WET",
     "price": "2990"
   },
   {
-    "brand": "VARTA",
+    "brand": "MUTLU",
     "model": "",
-    "ah": 100,
-    "cca": 830,
-    "size": "353/175/190",
-    "polarity": "Обратная",
-    "type": "Silver Dynamic",
-    "price": "2990"
+    "ah": 190,
+    "cca": 1300,
+    "size": "513/223/223",
+    "polarity": "Прямая",
+    "type": "WET",
+    "price": "3790"
   },
   {
-    "brand": "VARTA",
+    "brand": "MUTLU",
     "model": "",
-    "ah": 95,
-    "cca": 850,
-    "size": "353/175/190",
-    "polarity": "Обратная",
-    "type": "Silver Dynamic AGM",
-    "price": "4490"
+    "ah": 225,
+    "cca": 1450,
+    "size": "518/273/240",
+    "polarity": "Прямая",
+    "type": "WET",
+    "price": "4290"
   }
 ]
