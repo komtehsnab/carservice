@@ -1,0 +1,16 @@
+[
+  {
+    "brand": "Sailun",
+    "model": "Atrezzo Elite",
+    "size": {
+      "width": 215,
+      "profile": 55,
+      "diameter": 17
+    },
+    "season": "Летние",
+    "loadIndex": "94 (до 670 кг)",
+    "speedIndex": "V (до 240 км/ч)",
+    "price": 1390,
+    "images": "img/tires/passenger/summer/Sailun/AtrezzoElite.jpg"
+  }
+]
