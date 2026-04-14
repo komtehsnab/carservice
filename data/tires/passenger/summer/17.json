@@ -12,5 +12,19 @@
     "speedIndex": "V (до 240 км/ч)",
     "price": 1390,
     "images": "img/tires/passenger/summer/Sailun/AtrezzoElite.jpg"
+  },
+  {
+    "brand": "Laufenn",
+    "model": "S-Fit EQ LK01",
+    "size": {
+      "width": 215,
+      "profile": 50,
+      "diameter": 17
+    },
+    "season": "Летние",
+    "loadIndex": "95 (до 690 кг)",
+    "speedIndex": "W (до 270 км/ч)",
+    "price": 1690,
+    "images": "img/tires/passenger/summer/Laufenn/laufenn-s-fit-eq-lk01-400.webp"
   }
 ]
