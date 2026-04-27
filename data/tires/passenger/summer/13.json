@@ -57,5 +57,20 @@
     "speedIndex": "T (до 190 км/ч)",
     "price": 680,
     "images": "img/tires/passenger/summer/Tracmax/XPriviloTX2.webp"
+  },
+
+  {
+    "brand": "Petlas",
+    "model": "ELEGANT PT311",
+    "size": {
+      "width": 175,
+      "profile": 70,
+      "diameter": 13
+    },
+    "season": "Летние",
+    "loadIndex": "82 (до 475 кг)",
+    "speedIndex": "T (до 190 км/ч)",
+    "price": 750,
+    "images": "img/tires/passenger/summer/Petlas/ElegantPT311.png"
   }
 ]
