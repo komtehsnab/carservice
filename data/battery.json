@@ -90,6 +90,16 @@
     "price": "1390"
   },
   {
+    "brand": "EXIDE",
+    "model": "ASIA",
+    "ah": 45,
+    "cca": 380,
+    "size": "238/129/227",
+    "polarity": "Обратная",
+    "type": "AGM",
+    "price": "2890"
+  },
+  {
     "brand": "VARTA",
     "model": "N50",
     "ah": 50,
