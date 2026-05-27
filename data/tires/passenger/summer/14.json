@@ -15,6 +15,21 @@
   },
 
   {
+    "brand": "Windforce",
+    "model": "Advanfors H/P",
+    "size": {
+      "width": 175,
+      "profile": 65,
+      "diameter": 14
+    },
+    "season": "Летние",
+    "loadIndex": "82 (до 475 кг)",
+    "speedIndex": "H (до 210 км/ч)",
+    "price": 790,
+    "images": "img/tires/passenger/summer/Windforce/advanfors-h-p-500@2x.webp"
+  },
+
+  {
     "brand": "Petlas",
     "model": "Elegant PT311",
     "size": {
